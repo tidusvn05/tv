@@ -178,8 +178,7 @@ https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtc16" group-title="VTC" tvg-logo="https://pbs.twimg.com/media/Fa6Zc2ZakAM-ku3?format=png" , VTC16 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="nguyenhung"group-title="nguyenhung" tvg-logo="https://nguyenhung.net/wp-content/uploads/2022/08/logo-nguyenhung-15082022.png", List TV by NguyenHung.Net
-https://i.imgur.com/g7whC32.jpg
+
 
 
 # ==== HTV ====
@@ -368,8 +367,6 @@ https://e1.endpoint.cdn.sctvonline.vn/playlist/sctvphimtonghop/index.m3u8|Refere
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referer=https://sctvonline.vn/
 https://e2.endpoint.cdn.sctvonline.vn/hls/btv5/sd2/index.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="nguyenhung"group-title="nguyenhung" tvg-logo="https://nguyenhung.net/wp-content/uploads/2022/08/logo-nguyenhung-15082022.png", List TV by NguyenHung.Net
-https://i.imgur.com/g7whC32.jpg
 
 #-*--Thiết yếu-*--#
 #EXTINF:-1 tvg-id="vovtvhd" group-title="Thiết Yếu" tvg-logo="https://pbs.twimg.com/media/Fa6-tc0aIAAH4cM?format=png", VOVTV HD
@@ -442,8 +439,7 @@ http://hoaiptv.duckdns.org:8002/live/tv360.php?id=107
 
 #EXTINF:-1 tvg-id="hgtv" group-title="HGTV" tvg-logo="http://img-zlr1.tv360.vn/image1/2020_09_23/1600822045966/d9ac9510871a.png", HGTV
 http://hoaiptv.duckdns.org:8002/live/tv360.php?id=99
-#EXTINF:-1 tvg-id="nguyenhung"group-title="nguyenhung" tvg-logo="https://nguyenhung.net/wp-content/uploads/2022/08/logo-nguyenhung-15082022.png", List TV by NguyenHung.Net
-https://i.imgur.com/g7whC32.jpg
+
 
 #====QUỐC TẾ====
 #EXTINF:-1 tvg-id="axnhd" tvg-name="AXN" tvg-logo="https://i.imgur.com/3bLRZzC.png" group-title="Quốc Tế",AXN
@@ -562,8 +558,7 @@ http://livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="tv5monde" tvg-name="TV5 Monde" tvg-logo="https://i.imgur.com/v1ERmdk.png" group-title="Quốc Tế",TV5 Monde
 http://livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="nguyenhung"group-title="nguyenhung" tvg-logo="https://nguyenhung.net/wp-content/uploads/2022/08/logo-nguyenhung-15082022.png", List TV by NguyenHung.Net
-https://i.imgur.com/g7whC32.jpg
+
 
 #-*--Địa phương-*--#
 # THVL
@@ -770,6 +765,4 @@ https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/chunklist_w517483768.m3u8
 https://60acee235f4d5.streamlock.net/HGTV/d1/chunklist_w819569343.m3u8
 #EXTINF:0 tvg-id="vungtau" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/ZMVBv8X/BRT-BEARTV.png", Bà Rịa – Vũng Tàu
 https://stream.brt.vn:8081/live/tv2.stream_record/chunklist_w419871790.m3u8
-#EXTINF:-1 tvg-id="nguyenhung"group-title="nguyenhung" tvg-logo="https://nguyenhung.net/wp-content/uploads/2022/08/logo-nguyenhung-15082022.png", List TV by NguyenHung.Net
-https://i.imgur.com/g7whC32.jpg
 
