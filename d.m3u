@@ -35,7 +35,7 @@ https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1915921234.m3u
 http://hoaiptv.duckdns.org:8811/stream/channelid/2135582062?
 
 #8
-#EXTINF:0 tvg-id="htv2hd" group-title="3️⃣| HTV"tvg-logo="https://i.ibb.co/q99PxTH/cchtv2.webp",HTV2
+#EXTINF:0 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://i.ibb.co/q99PxTH/cchtv2.webp",HTV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vips-livecdn.fptplay.net/hda1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
 
@@ -519,22 +519,20 @@ http://hoaiptv.duckdns.org:8002/live/cliptv.php?id=000
 #EXTINF:-1 tvg-id="hits" group-title="INTHEBOX" tvg-logo="http://img-zlr1.tv360.vn/image1/2020_09_23/1600822037594/91bf6d3a7d09.png", HITS
 http://hoaiptv.duckdns.org:8002/live/tv360.php?id=107
 
-#EXTINF:-1 tvg-id="hgtv" group-title="HGTV" tvg-logo="http://img-zlr1.tv360.vn/image1/2020_09_23/1600822045966/d9ac9510871a.png", HGTV
-http://hoaiptv.duckdns.org:8002/live/tv360.php?id=99
 
 
-#====QUỐC TẾ====
+#====Quốc Tế====
 #EXTINF:-1 tvg-id="axnhd" tvg-name="AXN" tvg-logo="https://i.imgur.com/3bLRZzC.png" group-title="Quốc Tế",AXN
 http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
 
 
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/bm1-black-2021_f827fb6d.jpg?width=384&version=8&type=auto&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn", Box Movie 1
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/bm1-black-2021_f827fb6d.jpg?width=384&version=8&type=auto&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn", Box Movie 1
 https://vtsstr7.tv24.vn/live/smil:BOX_MOVIE_HD.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/hwc-2021_df4ce62c.jpg?width=384&version=8&type=auto&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn", Hollywood Classics
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/hwc-2021_df4ce62c.jpg?width=384&version=8&type=auto&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn", Hollywood Classics
 https://vtsstr7.tv24.vn/live/smil:Hollywood.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/happykids-2021_c912b9f2.jpg?width=384&version=8&type=auto&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn", Happy Kids
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/happykids-2021_c912b9f2.jpg?width=384&version=8&type=auto&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn", Happy Kids
 https://vtsstr7.tv24.vn/live/smil:Happy_Kids.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="cinemaworldhd" tvg-name="Cinema World" tvg-logo="https://i.imgur.com/MqpUsLb.png" group-title="Quốc Tế",Cinema World
