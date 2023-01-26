@@ -1,5 +1,4 @@
-#EXTM3U url-tvg="http://hqth.me/epg,http://trada.info/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" tvg-shift=0 m3uautoload=1
-
+#EXTM3U url-tvg="http://hqth.me/epg" tvg-shift=0 m3uautoload=1
 
 #1
 #EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1 FHD" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" group-title="VTV" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8" ,VTV1 FHD
@@ -369,8 +368,6 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
 
 
 #====SCTV====
-
-
 #EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://pbs.twimg.com/media/Fa6qDYDacAAF2KI?format=png", SCTV3 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referer=https://sctvonline.vn/
@@ -480,46 +477,6 @@ https://e1.endpoint.cdn.sctvonline.vn/playlist/sctvphimtonghop/index.m3u8|Refere
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referer=https://sctvonline.vn/
 https://e2.endpoint.cdn.sctvonline.vn/hls/btv5/sd2/index.m3u8|Referer=https://sctvonline.vn/
-
-
-#====BOX====
-#EXTINF:-1 tvg-id="boxmovie1" group-title="INTHEBOX" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
-http://hoaiptv.duckdns.org:8002/live/cliptv.php?id=Box-Movie-1
-
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="INTHEBOX" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics
-http://hoaiptv.duckdns.org:8002/live/cliptv.php?id=Hollywood-Classics
-
-#EXTINF:-1 tvg-id="inthebox" group-title="INTHEBOX" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box
-http://hoaiptv.duckdns.org:8002/live/cliptv.php?id=In-The-Box
-
-#EXTINF:-1 tvg-id="boxhits" group-title="INTHEBOX" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits
-http://hoaiptv.duckdns.org:8002/live/cliptv.php?id=Box-Hits
-
-
-#EXTINF:-1 tvg-id="man" group-title="INTHEBOX" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png", Man
-http://hoaiptv.duckdns.org:8002/live/cliptv.php?id=Man
-
-#EXTINF:-1 tvg-id="woman" group-title="INTHEBOX" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png", Woman
-http://hoaiptv.duckdns.org:8002/live/cliptv.php?id=Woman
-
-#EXTINF:-1 tvg-id="woman" group-title="INTHEBOX" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png", Woman 2
-http://hoaiptv.duckdns.org:8002/live/tv360.php?id=163
-
-#EXTINF:-1 tvg-id="drfithd" group-title="INTHEBOX" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png", Dr.Fit
-http://hoaiptv.duckdns.org:8002/live/cliptv.php?id=Dr.Fit
-
-#EXTINF:-1 tvg-id="musicbox" group-title="INTHEBOX" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png", Music Box
-http://hoaiptv.duckdns.org:8002/live/cliptv.php?id=Music-Box
-
-#EXTINF:-1 tvg-id="planetearthhd" group-title="INTHEBOX" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth
-http://hoaiptv.duckdns.org:8002/live/cliptv.php?id=Planet-Earth
-
-#EXTINF:-1 tvg-id="HISTORY" group-title="INTHEBOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/History_HD_Logo.svg/2560px-History_HD_Logo.svg.png",HISTORY HD
-http://hoaiptv.duckdns.org:8002/live/cliptv.php?id=000
-
-#EXTINF:-1 tvg-id="hits" group-title="INTHEBOX" tvg-logo="http://img-zlr1.tv360.vn/image1/2020_09_23/1600822037594/91bf6d3a7d09.png", HITS
-http://hoaiptv.duckdns.org:8002/live/tv360.php?id=107
-
 
 
 #====Quốc Tế====
