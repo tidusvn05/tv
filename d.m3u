@@ -168,8 +168,9 @@ https://856175157.r.vtvcdn.com/ondrm/FILM_TV/m20_index.m3u8
 
 # --- Thiếu Nhi ---
 #31 happy kid
-#EXTINF:-1 tvg-id="happykids" group-title="Thiếu Nhi - Hoạt Hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png", Happy Kids
-http://hoaiptv.duckdns.org:8002/live/cliptv.php?id=Planet-Earth
+#EXTINF:0 tvg-id="happykids" group-title="Thiếu Nhi - Hoạt Hình" tvg-logo="https://i.ibb.co/4Y4yxZq/Happy-Kids.png",Happy Kids
+# http://hoaiptv.duckdns.org:8002/live/cliptv.php?id=Planet-Earth
+https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8?kiptv|Referer=http://sctvonline.vn/
 
 #32 Bibi
 #EXTINF:-1 tvg-id="vtvcab8bibi" group-title="Thiếu Nhi - Hoạt Hình" tvg-logo="https://static2.vieon.vn/vieplay-image/livetv_logo_dark/2022/08/02/rytk8u23_vtvcab8-bibi_468_134.png", VTVcab8 - BiBi
@@ -203,13 +204,26 @@ http://livecdn.fptplay.net/hda3/babytvhd_vhls.smil/playlist.m3u8?token=eyJ1c2VyX
 https://e1.endpoint.cdn.sctvonline.vn/playlist/sctvphimtonghop/index.m3u8|Referer=https://sctvonline.vn/
 
 #42 box movie
-#EXTINF:-1 group-title="Phim" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/bm1-black-2021_f827fb6d.jpg?width=384&version=8&type=auto&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn", Box Movie 2
-https://vtsstr7.tv24.vn/live/smil:BOX_MOVIE_HD.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="boxmovie1" group-title="Phim" tvg-logo="https://i.ibb.co/mqY1Sxs/box-movie-1.png",Box Movie 1
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8?kiptv|Referer=http://sctvonline.vn/
+# https://vtsstr7.tv24.vn/live/smil:BOX_MOVIE_HD.smil/chunklist.m3u8
 
 #43 holywood classic
-#EXTINF:-1 group-title="Phim" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/hwc-2021_df4ce62c.jpg?width=384&version=8&type=auto&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn", Hollywood Classics
-https://vtsstr7.tv24.vn/live/smil:Hollywood.smil/chunklist.m3u8
+#EXTINF:0 group-title="Phim" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/hwc-2021_df4ce62c.jpg?width=384&version=8&type=auto&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn", Hollywood Classics
+https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8?kiptv|Referer=http://sctvonline.vn/
 
+#44 in the box
+#EXTINF:-1 tvg-id="inthebox" group-title="Phim" tvg-logo="https://i.ibb.co/Jrs5Vq2/Inthe-Box-Channel-150x901j1.png", In The Box
+https://api.vthanhtivi.pw/v2/getlink/cliptv/838/chunklist_b5128000.m3u8
+
+#45 box hits
+#EXTINF:-1 tvg-id="boxhits" group-title="Phim" tvg-logo="https://i.ibb.co/hYF1RTW/Box-Hits.png", Box Hits
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; KM6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36"
+http://jackmavietnam.ga/live/boxhits
+
+#46
+#EXTINF:0 tvg-id="musicbox" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/xYPTdNM/Music-Box.png",Music Box
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/sd2/index.m3u8?kiptv|Referer=http://sctvonline.vn/
 
 # ----Dia Phuong----
 #51 
