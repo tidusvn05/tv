@@ -35,3 +35,17 @@ chunklist_b5000000.m3u8
 # Source Viettel
 http://171.238.181.230:18080/154.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/5uE+IUgcjIR3FcrqoWGAjTumPjnp9wGhD1ZTJCGbWu6cpHIaJEDcNeAk9JkbMYeiBKlIX5BHW2ocdJplj9OM4YYbriGCcL4eImfHcfBgOPSSsM0BCBFOhU64+sjTyeR8mitOSSos/txSEuu8vqk1PhUXh3ynlGKtSJmDhpQrAGo
 
+
+
+
+# List URL
+- freevip
+
+`http://gg.gg/iipp1`
+
+- simple
+
+
+
+
+
