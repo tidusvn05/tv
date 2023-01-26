@@ -1,3 +1,4 @@
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vagroup_epg.xml
 #EXTM3U url-tvg="http://hqth.me/epg" tvg-shift=0 m3uautoload=1
 #EXT-X-VERSION:3
 
@@ -66,7 +67,7 @@ https://vips-livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/playlist.m3u8?toke
 https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/playlist.m3u8?token=eyJ1c2VyX2lkIjogIiIsICJjaGFubmVsX3VybCI6ICJ2dHYxaGRfdmhscy5zbWlsIiwgImlzcCI6ICJ2aWV0dGVsIiwgInRpbWVzdGFtcCI6IDE2NzQ3NDg1MjYsICJoYXNoX3NlY3JldCI6ICJjNzAwM2VjZDk2OTQ2NDM5NmM1NjIyZTdiN2MyZDg3ZCIsICJybWlwIjogIjExNS43Ni41NC45MiJ9
 
 #12 THVL 2
-#EXTINF:-1 tvg-id="vinhlong2hd" group-title="Địa Phương" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/10/28/fstbcaqz_thvl2-moi14271023d66c7689e4dd5709bbe22024_296_168.webp", Vinh Long 1
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="Địa Phương" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/10/28/fstbcaqz_thvl2-moi14271023d66c7689e4dd5709bbe22024_296_168.webp", Vinh Long 2
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; KM6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36" 
 https://vips-livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/playlist.m3u8?token=eyJ1c2VyX2lkIjogIiIsICJjaGFubmVsX3VybCI6ICJ2dHYxaGRfdmhscy5zbWlsIiwgImlzcCI6ICJ2aWV0dGVsIiwgInRpbWVzdGFtcCI6IDE2NzQ3NDg1MjYsICJoYXNoX3NlY3JldCI6ICJjNzAwM2VjZDk2OTQ2NDM5NmM1NjIyZTdiN2MyZDg3ZCIsICJybWlwIjogIjExNS43Ni41NC45MiJ9
 
