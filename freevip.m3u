@@ -1,26 +1,26 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vagroup_epg.xml
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vagroup_epg.xml"
 #EXTM3U url-tvg="http://hqth.me/epg" tvg-shift=0 m3uautoload=1
 #EXT-X-VERSION:3
 
 #1
-#EXTINF:0 tvg-id="vtv1hd"group-title="VTV - KIPTV" tvg-logo="http://gg.gg/vtv1logokiptv" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 FPT
+#EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="http://gg.gg/vtv1logokiptv" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 FPT
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; KM6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36"
 # https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/playlist.m3u8?token=eyJ1c2VyX2lkIjogIiIsICJjaGFubmVsX3VybCI6ICJ2dHYxaGRfdmhscy5zbWlsIiwgImlzcCI6ICJ2aWV0dGVsIiwgInRpbWVzdGFtcCI6IDE2NzQ3NDg1MjYsICJoYXNoX3NlY3JldCI6ICJjNzAwM2VjZDk2OTQ2NDM5NmM1NjIyZTdiN2MyZDg3ZCIsICJybWlwIjogIjExNS43Ni41NC45MiJ9?token=eyJ1c2VyX2lkIjogIiIsICJjaGFubmVsX3VybCI6ICJ2dHYxaGRfdmhscy5zbWlsIiwgImlzcCI6ICJ2aWV0dGVsIiwgInRpbWVzdGFtcCI6IDE2NzQ3NDg1MjYsICJoYXNoX3NlY3JldCI6ICJjNzAwM2VjZDk2OTQ2NDM5NmM1NjIyZTdiN2MyZDg3ZCIsICJybWlwIjogIjExNS43Ni41NC45MiJ9
 https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/playlist.m3u8?token=eyJ1c2VyX2lkIjogIiIsICJjaGFubmVsX3VybCI6ICJ2dHYxaGRfdmhscy5zbWlsIiwgImlzcCI6ICJ2aWV0dGVsIiwgInRpbWVzdGFtcCI6IDE2NzQ3NDg1MjYsICJoYXNoX3NlY3JldCI6ICJjNzAwM2VjZDk2OTQ2NDM5NmM1NjIyZTdiN2MyZDg3ZCIsICJybWlwIjogIjExNS43Ni41NC45MiJ9
 
 #1-temp vtv1
-#EXTINF:0 tvg-id="vtv1hd"group-title="VTV - KIPTV" tvg-logo="http://gg.gg/vtv1logokiptv" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 Viettel
+#EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="http://gg.gg/vtv1logokiptv" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 Viettel
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; KM6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36"
 http://171.238.181.230:18080/154.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/5uE+IUgcjIR3FcrqoWGAjTumPjnp9wGhD1ZTJCGbWu6cpHIaJEDcNeAk9JkbMYeiBKlIX5BHW2ocdJplj9OM4YYbriGCcL4eImfHcfBgOPSSsM0BCBFOhU64+sjTyeR8mitOSSos/txSEuu8vqk1PhUXh3ynlGKtSJmDhpQrAGo
 
 #2 vtv2
-#EXTINF:0 tvg-id="vtv2hd"group-title="VTV - KIPTV" tvg-logo="http://gg.gg/vtv2logokiptv" tvg-chno="2" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV2
+#EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="http://gg.gg/vtv2logokiptv" tvg-chno="2" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV2
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; KM6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36"
 https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/playlist.m3u8?token=eyJ1c2VyX2lkIjogIiIsICJjaGFubmVsX3VybCI6ICJ2dHYxaGRfdmhscy5zbWlsIiwgImlzcCI6ICJ2aWV0dGVsIiwgInRpbWVzdGFtcCI6IDE2NzQ3NDg1MjYsICJoYXNoX3NlY3JldCI6ICJjNzAwM2VjZDk2OTQ2NDM5NmM1NjIyZTdiN2MyZDg3ZCIsICJybWlwIjogIjExNS43Ni41NC45MiJ9
 
 
 #3 vtv3
-#EXTINF:0 tvg-id="vtv3hd"group-title="VTV - KIPTV" tvg-logo="http://gg.gg/vtv3logokiptv" tvg-chno="3" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV3
+#EXTINF:0 tvg-id="vtv3hd" group-title="VTV" tvg-logo="http://gg.gg/vtv3logokiptv" tvg-chno="3" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; KM6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36"
 https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/playlist.m3u8?token=eyJ1c2VyX2lkIjogIiIsICJjaGFubmVsX3VybCI6ICJ2dHYxaGRfdmhscy5zbWlsIiwgImlzcCI6ICJ2aWV0dGVsIiwgInRpbWVzdGFtcCI6IDE2NzQ3NDg1MjYsICJoYXNoX3NlY3JldCI6ICJjNzAwM2VjZDk2OTQ2NDM5NmM1NjIyZTdiN2MyZDg3ZCIsICJybWlwIjogIjExNS43Ni41NC45MiJ9
 # http://hoavnpt.ddns.net:9981/stream/channelid/287229383?profile=pass
@@ -31,12 +31,12 @@ https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/playlist.m3u8?token=eyJ1c
 https://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/playlist.m3u8?token=eyJ1c2VyX2lkIjogIiIsICJjaGFubmVsX3VybCI6ICJ2dHYxaGRfdmhscy5zbWlsIiwgImlzcCI6ICJ2aWV0dGVsIiwgInRpbWVzdGFtcCI6IDE2NzQ3NDg1MjYsICJoYXNoX3NlY3JldCI6ICJjNzAwM2VjZDk2OTQ2NDM5NmM1NjIyZTdiN2MyZDg3ZCIsICJybWlwIjogIjExNS43Ni41NC45MiJ9
 
 #5 VTV5
-#EXTINF:0 tvg-id="vtv5hd"group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/njbWnFT/vtv5-tay-nguyen.png" tvg-chno="5" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV5
+#EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.ibb.co/njbWnFT/vtv5-tay-nguyen.png" tvg-chno="5" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV5
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; KM6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36"
 https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/playlist.m3u8?token=eyJ1c2VyX2lkIjogIiIsICJjaGFubmVsX3VybCI6ICJ2dHYxaGRfdmhscy5zbWlsIiwgImlzcCI6ICJ2aWV0dGVsIiwgInRpbWVzdGFtcCI6IDE2NzQ3NDg1MjYsICJoYXNoX3NlY3JldCI6ICJjNzAwM2VjZDk2OTQ2NDM5NmM1NjIyZTdiN2MyZDg3ZCIsICJybWlwIjogIjExNS43Ni41NC45MiJ9
 
 #6 NDTV
-#EXTINF:-1 tvg-id="nhandan"group-title="THỜI SỰ - KIPTV" tvg-logo="https://i.ibb.co/JqJd7PY/NHANDAN.png",NHÂN DÂN
+#EXTINF:-1 tvg-id="nhandan" group-title="THỜI SỰ" tvg-logo="https://i.ibb.co/JqJd7PY/NHANDAN.png",NHÂN DÂN
 https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1915921234.m3u8
 
 
@@ -257,25 +257,25 @@ https://vips-livecdn.fptplay.net/hda2/btv4hd_vhls.smil/playlist.m3u8?token=eyJ1c
 # ----- END -----
 
 
-#EXTINF:0 tvg-id="vtv4hd"group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/gdPTLB0/vtv4.png" tvg-chno="4" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV4
+#EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.ibb.co/gdPTLB0/vtv4.png" tvg-chno="4" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV4
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; KM6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36"
 https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/playlist.m3u8?token=eyJ1c2VyX2lkIjogIiIsICJjaGFubmVsX3VybCI6ICJ2dHYxaGRfdmhscy5zbWlsIiwgImlzcCI6ICJ2aWV0dGVsIiwgInRpbWVzdGFtcCI6IDE2NzQ3NDg1MjYsICJoYXNoX3NlY3JldCI6ICJjNzAwM2VjZDk2OTQ2NDM5NmM1NjIyZTdiN2MyZDg3ZCIsICJybWlwIjogIjExNS43Ni41NC45MiJ9
 
 
-#EXTINF:0 tvg-id="vtv7hd"group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/J7FX52M/vtv7.png"  tvg-chno="7" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8,VTV7 HD
+#EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.ibb.co/J7FX52M/vtv7.png"  tvg-chno="7" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8,VTV7 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; KM6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36"
 https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="vtv8hd"group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/vsQPSYQ/vtv8.png" tvg-chno="8" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV8 HD
+#EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.ibb.co/vsQPSYQ/vtv8.png" tvg-chno="8" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV8 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; KM6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36"
 https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 
 
-#EXTINF:0 tvg-id="vtv9hd"group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/SV2FccD/vtv9.png" tvg-chno="9" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV9 HD
+#EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.ibb.co/SV2FccD/vtv9.png" tvg-chno="9" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV9 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; KM6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36"
 https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="vtv5hdtnb"group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/1RxT5jp/VTV5-TNB.png",VTV5 Tây Nam Bộ
+#EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.ibb.co/1RxT5jp/VTV5-TNB.png",VTV5 Tây Nam Bộ
 https://jackmavietnam.ga/live/v5tnb
 
 
