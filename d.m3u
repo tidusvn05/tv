@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,http://trada.info/epg.xml"
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 
 #EXTINF:0 tvg-id="vtv1hd"group-title="VTV - KIPTV" tvg-logo="http://gg.gg/vtv1logokiptv" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; KM6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36"
