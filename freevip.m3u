@@ -225,7 +225,7 @@ https://api.vthanhtivi.pw/v2/getlink/cliptv/838/chunklist_b5128000.m3u8
 http://jackmavietnam.ga/live/boxhits
 
 #46
-#EXTINF:0 tvg-id="musicbox" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/xYPTdNM/Music-Box.png",Music Box
+#EXTINF:0 tvg-id="musicbox" group-title="Phim" tvg-logo="https://i.ibb.co/xYPTdNM/Music-Box.png",Music Box
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/sd2/index.m3u8?kiptv|Referer=http://sctvonline.vn/
 
 # ----Dia Phuong----
