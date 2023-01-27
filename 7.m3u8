@@ -1,9 +1,8 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,http://trada.info/epg.xml"
 
-#2 vtv1
+#1 vtv1
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="http://gg.gg/vtv1logokiptv" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; KM6) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36"
-# https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/playlist.m3u8?token=eyJ1c2VyX2lkIjogIiIsICJjaGFubmVsX3VybCI6ICJ2dHYxaGRfdmhscy5zbWlsIiwgImlzcCI6ICJ2aWV0dGVsIiwgInRpbWVzdGFtcCI6IDE2NzQ3NDg1MjYsICJoYXNoX3NlY3JldCI6ICJjNzAwM2VjZDk2OTQ2NDM5NmM1NjIyZTdiN2MyZDg3ZCIsICJybWlwIjogIjExNS43Ni41NC45MiJ9?token=eyJ1c2VyX2lkIjogIiIsICJjaGFubmVsX3VybCI6ICJ2dHYxaGRfdmhscy5zbWlsIiwgImlzcCI6ICJ2aWV0dGVsIiwgInRpbWVzdGFtcCI6IDE2NzQ3NDg1MjYsICJoYXNoX3NlY3JldCI6ICJjNzAwM2VjZDk2OTQ2NDM5NmM1NjIyZTdiN2MyZDg3ZCIsICJybWlwIjogIjExNS43Ni41NC45MiJ9
 https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/playlist.m3u8?token=eyJ1c2VyX2lkIjogIiIsICJjaGFubmVsX3VybCI6ICJ2dHYxaGRfdmhscy5zbWlsIiwgImlzcCI6ICJ2aWV0dGVsIiwgInRpbWVzdGFtcCI6IDE2NzQ3NDg1MjYsICJoYXNoX3NlY3JldCI6ICJjNzAwM2VjZDk2OTQ2NDM5NmM1NjIyZTdiN2MyZDg3ZCIsICJybWlwIjogIjExNS43Ni41NC45MiJ9
 
 #2 vtv2
@@ -247,6 +246,61 @@ https://vips-livecdn.fptplay.net/hda2/btv4hd_vhls.smil/playlist.m3u8?token=eyJ1c
 
 
 
+
+# ==== HTV ====
+#EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://pbs.twimg.com/media/Fa7AbJWagAMOXSN?format=png",HTV1
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; KM6) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36" 
+https://vips-livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
+
+
+#EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://pbs.twimg.com/media/Fa7AbJNacAI1x1L?format=png",HTV2 - Vie Channel
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; KM6) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36" 
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8?token=eyJ1c2VyX2lkIjogIiIsICJjaGFubmVsX3VybCI6ICJ2dHYxaGRfdmhscy5zbWlsIiwgImlzcCI6ICJ2aWV0dGVsIiwgInRpbWVzdGFtcCI6IDE2NzQ3NDg1MjYsICJoYXNoX3NlY3JldCI6ICJjNzAwM2VjZDk2OTQ2NDM5NmM1NjIyZTdiN2MyZDg3ZCIsICJybWlwIjogIjExNS43Ni41NC45MiJ9
+
+#EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="https://pbs.twimg.com/media/Fa7AbJOaUAE6JoO?format=png",HTV3 - Heo TV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; KM6) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36" 
+https://vips-livecdn.fptplay.net/sdb/htv3_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="htv4" group-title="HTV" tvg-logo="https://pbs.twimg.com/media/Fa7AbJNaAAAR2sm?format=png",HTV Key
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; KM6) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36" 
+https://vips-livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
+
+
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://pbs.twimg.com/media/Fa7Ad0GakAcX1g2?format=png",HTV Thể Thao
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; KM6) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36" 
+https://vips-livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
+ 
+#EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTV" tvg-logo="https://pbs.twimg.com/media/Fa7Apk7akAAgvCx?format=png",HTVC Thuần Việt
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; KM6) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36" 
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8?token=eyJ1c2VyX2lkIjogIiIsICJjaGFubmVsX3VybCI6ICJ2dHYxaGRfdmhscy5zbWlsIiwgImlzcCI6ICJ2aWV0dGVsIiwgInRpbWVzdGFtcCI6IDE2NzQ3NDg1MjYsICJoYXNoX3NlY3JldCI6ICJjNzAwM2VjZDk2OTQ2NDM5NmM1NjIyZTdiN2MyZDg3ZCIsICJybWlwIjogIjExNS43Ni41NC45MiJ9
+
+#EXTINF:-1 tvg-id="htvcthuanviethd" group-title="HTV" tvg-logo="https://pbs.twimg.com/media/Fa7Ar9_aQAAJGk2?format=png",HTVC Thuần Việt
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; KM6) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36" 
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist.m3u8?token=eyJ1c2VyX2lkIjogIiIsICJjaGFubmVsX3VybCI6ICJ2dHYxaGRfdmhscy5zbWlsIiwgImlzcCI6ICJ2aWV0dGVsIiwgInRpbWVzdGFtcCI6IDE2NzQ3NDg1MjYsICJoYXNoX3NlY3JldCI6ICJjNzAwM2VjZDk2OTQ2NDM5NmM1NjIyZTdiN2MyZDg3ZCIsICJybWlwIjogIjExNS43Ni41NC45MiJ9
+
+#EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTV" tvg-logo="https://pbs.twimg.com/media/Fa7ApjxaAAUSY5A?format=png",HTVC Gia đình
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; KM6) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36" 
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8?token=eyJ1c2VyX2lkIjogIiIsICJjaGFubmVsX3VybCI6ICJ2dHYxaGRfdmhscy5zbWlsIiwgImlzcCI6ICJ2aWV0dGVsIiwgInRpbWVzdGFtcCI6IDE2NzQ3NDg1MjYsICJoYXNoX3NlY3JldCI6ICJjNzAwM2VjZDk2OTQ2NDM5NmM1NjIyZTdiN2MyZDg3ZCIsICJybWlwIjogIjExNS43Ni41NC45MiJ9
+
+#EXTINF:-1 tvg-id="htvcphunuhd" group-title="HTV" tvg-logo="https://pbs.twimg.com/media/Fa7Ad2qaUAkzPDI?format=png",HTVC Phụ nữ
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; KM6) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36" 
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHUNU-HD-1080p/playlist.m3u8?token=eyJ1c2VyX2lkIjogIiIsICJjaGFubmVsX3VybCI6ICJ2dHYxaGRfdmhscy5zbWlsIiwgImlzcCI6ICJ2aWV0dGVsIiwgInRpbWVzdGFtcCI6IDE2NzQ3NDg1MjYsICJoYXNoX3NlY3JldCI6ICJjNzAwM2VjZDk2OTQ2NDM5NmM1NjIyZTdiN2MyZDg3ZCIsICJybWlwIjogIjExNS43Ni41NC45MiJ9
+
+#EXTINF:-1 tvg-id="htvcdulichhd" group-title="HTV" tvg-logo="https://pbs.twimg.com/media/Fa7Ag_9akAA0XZ7?format=png",HTVC Du lịch Cuộc sống
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; KM6) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36" 
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-DULICH-HD-1080p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="htvccanhachd" group-title="HTV" tvg-logo="https://pbs.twimg.com/media/Fa7Ag-GaUAAwOv0?format=png",HTVC Ca nhạc
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; KM6) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36" 
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-CANHAC-HD-1080p/playlist.m3u8?token=eyJ1c2VyX2lkIjogIiIsICJjaGFubmVsX3VybCI6ICJ2dHYxaGRfdmhscy5zbWlsIiwgImlzcCI6ICJ2aWV0dGVsIiwgInRpbWVzdGFtcCI6IDE2NzQ3NDg1MjYsICJoYXNoX3NlY3JldCI6ICJjNzAwM2VjZDk2OTQ2NDM5NmM1NjIyZTdiN2MyZDg3ZCIsICJybWlwIjogIjExNS43Ni41NC45MiJ9
+
+
+#EXTINF:-1 tvg-id="htvcplushd" group-title="HTV" tvg-logo="https://pbs.twimg.com/media/Fa7AhAZacAEQIJD?format=png",HTVC Plus
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; KM6) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36" 
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8?token=eyJ1c2VyX2lkIjogIiIsICJjaGFubmVsX3VybCI6ICJ2dHYxaGRfdmhscy5zbWlsIiwgImlzcCI6ICJ2aWV0dGVsIiwgInRpbWVzdGFtcCI6IDE2NzQ3NDg1MjYsICJoYXNoX3NlY3JldCI6ICJjNzAwM2VjZDk2OTQ2NDM5NmM1NjIyZTdiN2MyZDg3ZCIsICJybWlwIjogIjExNS43Ni41NC45MiJ9
+
+
+
 # ----- END -----
 
 
@@ -327,19 +381,6 @@ https://856175157.r.vtvcdn.com/ondrm/LIFE_TV/m20_index.m3u8
 
 
 
-
-#-*--Thiết yếu-*--#
-
-#EXTINF:-1 tvg-id="ttxvnhd" group-title="Thiết Yếu" tvg-logo="https://pbs.twimg.com/media/Fa6-tcfacAA0WFd?format=png",VNews
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; KM6) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36" 
-https://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/playlist.m3u8?token=eyJ1c2VyX2lkIjogIiIsICJjaGFubmVsX3VybCI6ICJ2dHYxaGRfdmhscy5zbWlsIiwgImlzcCI6ICJ2aWV0dGVsIiwgInRpbWVzdGFtcCI6IDE2NzQ3NDg1MjYsICJoYXNoX3NlY3JldCI6ICJjNzAwM2VjZDk2OTQ2NDM5NmM1NjIyZTdiN2MyZDg3ZCIsICJybWlwIjogIjExNS43Ni41NC45MiJ9
-
-
-#EXTINF:-1 tvg-id="quochoi" group-title="Thiết Yếu" tvg-logo="https://pbs.twimg.com/media/Fa6-taTacAEz7ii?format=png",Quốc Hội
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; KM6) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36" 
-https://vips-livecdn.fptplay.net/hda1/quochoivn_vhls.smil/playlist.m3u8?token=eyJ1c2VyX2lkIjogIiIsICJjaGFubmVsX3VybCI6ICJ2dHYxaGRfdmhscy5zbWlsIiwgImlzcCI6ICJ2aWV0dGVsIiwgInRpbWVzdGFtcCI6IDE2NzQ3NDg1MjYsICJoYXNoX3NlY3JldCI6ICJjNzAwM2VjZDk2OTQ2NDM5NmM1NjIyZTdiN2MyZDg3ZCIsICJybWlwIjogIjExNS43Ni41NC45MiJ9
-
-
 # ====VTC====
 
 #EXTINF:-1 tvg-id="vtc4hd" group-title="VTC" tvg-logo="https://pbs.twimg.com/media/Fa6ZTXtaIAM8Y43?format=png",VTC4
@@ -353,10 +394,6 @@ https://vips-livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc6hd" group-title="VTC" tvg-logo="https://pbs.twimg.com/media/Fa6ZW0DacAEhukR?format=png",VTC6
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; KM6) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36" 
 https://vips-livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://pbs.twimg.com/media/Fa6ZW0haMAI_4V6?format=png",VTC7 - TodayTV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; KM6) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36" 
-https://vips-livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vtc8" group-title="VTC" tvg-logo="https://pbs.twimg.com/media/Fa6ZW1UaIAAAKB_?format=png",VTC8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; KM6) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36" 
@@ -391,59 +428,6 @@ https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/playlist.m3u8?token=eyJ1c2
 https://vips-livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
 
 
-
-# ==== HTV ====
-#EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://pbs.twimg.com/media/Fa7AbJWagAMOXSN?format=png",HTV1
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; KM6) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36" 
-https://vips-livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
-
-
-#EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://pbs.twimg.com/media/Fa7AbJNacAI1x1L?format=png",HTV2 - Vie Channel
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; KM6) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36" 
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8?token=eyJ1c2VyX2lkIjogIiIsICJjaGFubmVsX3VybCI6ICJ2dHYxaGRfdmhscy5zbWlsIiwgImlzcCI6ICJ2aWV0dGVsIiwgInRpbWVzdGFtcCI6IDE2NzQ3NDg1MjYsICJoYXNoX3NlY3JldCI6ICJjNzAwM2VjZDk2OTQ2NDM5NmM1NjIyZTdiN2MyZDg3ZCIsICJybWlwIjogIjExNS43Ni41NC45MiJ9
-
-#EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="https://pbs.twimg.com/media/Fa7AbJOaUAE6JoO?format=png",HTV3 - Heo TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; KM6) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36" 
-https://vips-livecdn.fptplay.net/sdb/htv3_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="htv4" group-title="HTV" tvg-logo="https://pbs.twimg.com/media/Fa7AbJNaAAAR2sm?format=png",HTV Key
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; KM6) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36" 
-https://vips-livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
-
-
-#EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://pbs.twimg.com/media/Fa7Ad0GakAcX1g2?format=png",HTV Thể Thao
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; KM6) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36" 
-https://vips-livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
- 
-#EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTV" tvg-logo="https://pbs.twimg.com/media/Fa7Apk7akAAgvCx?format=png",HTVC Thuần Việt
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; KM6) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36" 
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8?token=eyJ1c2VyX2lkIjogIiIsICJjaGFubmVsX3VybCI6ICJ2dHYxaGRfdmhscy5zbWlsIiwgImlzcCI6ICJ2aWV0dGVsIiwgInRpbWVzdGFtcCI6IDE2NzQ3NDg1MjYsICJoYXNoX3NlY3JldCI6ICJjNzAwM2VjZDk2OTQ2NDM5NmM1NjIyZTdiN2MyZDg3ZCIsICJybWlwIjogIjExNS43Ni41NC45MiJ9
-
-#EXTINF:-1 tvg-id="htvcthuanviethd" group-title="HTV" tvg-logo="https://pbs.twimg.com/media/Fa7Ar9_aQAAJGk2?format=png",HTVC Thuần Việt
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; KM6) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36" 
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist.m3u8?token=eyJ1c2VyX2lkIjogIiIsICJjaGFubmVsX3VybCI6ICJ2dHYxaGRfdmhscy5zbWlsIiwgImlzcCI6ICJ2aWV0dGVsIiwgInRpbWVzdGFtcCI6IDE2NzQ3NDg1MjYsICJoYXNoX3NlY3JldCI6ICJjNzAwM2VjZDk2OTQ2NDM5NmM1NjIyZTdiN2MyZDg3ZCIsICJybWlwIjogIjExNS43Ni41NC45MiJ9
-
-#EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTV" tvg-logo="https://pbs.twimg.com/media/Fa7ApjxaAAUSY5A?format=png",HTVC Gia đình
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; KM6) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36" 
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8?token=eyJ1c2VyX2lkIjogIiIsICJjaGFubmVsX3VybCI6ICJ2dHYxaGRfdmhscy5zbWlsIiwgImlzcCI6ICJ2aWV0dGVsIiwgInRpbWVzdGFtcCI6IDE2NzQ3NDg1MjYsICJoYXNoX3NlY3JldCI6ICJjNzAwM2VjZDk2OTQ2NDM5NmM1NjIyZTdiN2MyZDg3ZCIsICJybWlwIjogIjExNS43Ni41NC45MiJ9
-
-#EXTINF:-1 tvg-id="htvcphunuhd" group-title="HTV" tvg-logo="https://pbs.twimg.com/media/Fa7Ad2qaUAkzPDI?format=png",HTVC Phụ nữ
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; KM6) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36" 
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHUNU-HD-1080p/playlist.m3u8?token=eyJ1c2VyX2lkIjogIiIsICJjaGFubmVsX3VybCI6ICJ2dHYxaGRfdmhscy5zbWlsIiwgImlzcCI6ICJ2aWV0dGVsIiwgInRpbWVzdGFtcCI6IDE2NzQ3NDg1MjYsICJoYXNoX3NlY3JldCI6ICJjNzAwM2VjZDk2OTQ2NDM5NmM1NjIyZTdiN2MyZDg3ZCIsICJybWlwIjogIjExNS43Ni41NC45MiJ9
-
-#EXTINF:-1 tvg-id="htvcdulichhd" group-title="HTV" tvg-logo="https://pbs.twimg.com/media/Fa7Ag_9akAA0XZ7?format=png",HTVC Du lịch Cuộc sống
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; KM6) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36" 
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-DULICH-HD-1080p/chunks.m3u8
-
-#EXTINF:-1 tvg-id="htvccanhachd" group-title="HTV" tvg-logo="https://pbs.twimg.com/media/Fa7Ag-GaUAAwOv0?format=png",HTVC Ca nhạc
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; KM6) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36" 
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-CANHAC-HD-1080p/playlist.m3u8?token=eyJ1c2VyX2lkIjogIiIsICJjaGFubmVsX3VybCI6ICJ2dHYxaGRfdmhscy5zbWlsIiwgImlzcCI6ICJ2aWV0dGVsIiwgInRpbWVzdGFtcCI6IDE2NzQ3NDg1MjYsICJoYXNoX3NlY3JldCI6ICJjNzAwM2VjZDk2OTQ2NDM5NmM1NjIyZTdiN2MyZDg3ZCIsICJybWlwIjogIjExNS43Ni41NC45MiJ9
-
-
-
-#EXTINF:-1 tvg-id="htvcplushd" group-title="HTV" tvg-logo="https://pbs.twimg.com/media/Fa7AhAZacAEQIJD?format=png",HTVC Plus
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; KM6) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36" 
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8?token=eyJ1c2VyX2lkIjogIiIsICJjaGFubmVsX3VybCI6ICJ2dHYxaGRfdmhscy5zbWlsIiwgImlzcCI6ICJ2aWV0dGVsIiwgInRpbWVzdGFtcCI6IDE2NzQ3NDg1MjYsICJoYXNoX3NlY3JldCI6ICJjNzAwM2VjZDk2OTQ2NDM5NmM1NjIyZTdiN2MyZDg3ZCIsICJybWlwIjogIjExNS43Ni41NC45MiJ9
 
 
 #====SCTV====
