@@ -73,6 +73,9 @@ https://856175157.r.vtvcdn.com/ondrm/GIAITRI_TV_HD/m20_index.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; KM6) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36"
 https://856175157.r.vtvcdn.com/ondrm/PHIM_VIET/m20_index.m3u8 
 
+#16
+
+
 #17 On Cine
 #EXTINF:-1 tvg-id="vtvcab10oncine" group-title="VTVcab" tvg-logo="https://static2.vieon.vn/vieplay-image/livetv_logo_dark/2022/08/02/f8skse9t_vtvcab10-oncine_468_134.png",VTVcab10 - ON Cine
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; KM6) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36"
@@ -161,6 +164,13 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-CANHAC-HD-1080p/playlist.m3u8?to
 #EXTINF:-1 tvg-id="htvcplushd" group-title="HTV" tvg-logo="https://pbs.twimg.com/media/Fa7AhAZacAEQIJD?format=png",HTVC Plus
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; KM6) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/104.0.0.0 Mobile Safari/537.36" 
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8?token=eyJ1c2VyX2lkIjogIiIsICJjaGFubmVsX3VybCI6ICJ2dHYxaGRfdmhscy5zbWlsIiwgImlzcCI6ICJ2aWV0dGVsIiwgInRpbWVzdGFtcCI6IDE2NzQ3NDg1MjYsICJoYXNoX3NlY3JldCI6ICJjNzAwM2VjZDk2OTQ2NDM5NmM1NjIyZTdiN2MyZDg3ZCIsICJybWlwIjogIjExNS43Ni41NC45MiJ9
+
+#33 On Music
+#EXTINF:-1 tvg-id="vtvcab15hd" group-title="CA NHẠC" tvg-logo="https://i.imgur.com/mNfNtrA.png",VTVcab 15 - ON Music
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.vthanhtivi.pw/v2/getlink/vieon2/5aea9637-1080-4f0b-a1b4-a8c9d4c3a536/playlist.m3u8
+
+
 
 
 
