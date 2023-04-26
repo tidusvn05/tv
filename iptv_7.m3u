@@ -197,24 +197,21 @@ https://livecdn.fptplay.net/hda2/htvcmoviehd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ (MyK+)" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"qO9U/oNOCGQMM5UiIDy0aA","kid":"5rSl//hePbiVhSog+F2gSQ"},{"kty":"oct","k":"pW9CKRfvt47mlMIxXS6Qfw","kid":"Lvil//hePbiVhSog+F2gSQ"},{"kty":"oct","k":"nS75MWvgQK1
-Zygjui3wPpQ","kid":"O/zpMPhePbiVhSog+F2gSQ"},{"kty":"oct","k":"OyMknhMzOYJPwlqa/4aV5g","kid":"JwnpSEdePbiVhSog+F2gSQ"}], "type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"qO9U/oNOCGQMM5UiIDy0aA","kid":"5rSl//hePbiVhSog+F2gSQ"},{"kty":"oct","k":"pW9CKRfvt47mlMIxXS6Qfw","kid":"Lvil//hePbiVhSog+F2gSQ"},{"kty":"oct","k":"nS75MWvgQK1Zygjui3wPpQ","kid":"O/zpMPhePbiVhSog+F2gSQ"},{"kty":"oct","k":"OyMknhMzOYJPwlqa/4aV5g","kid":"JwnpSEdePbiVhSog+F2gSQ"}], "type":"temporary"}
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/i.mpd
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ (MyK+)" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png",K+SPORT 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"hVU/BiMu72fS16CUP9+JWA","kid":"c0VEMzQk+d9shAop+q18OQ"},{"kty":"oct","k":"X8XS3kh94dzlzLZesadwkg","kid":"u4lEMzQk+d9shAop+q18OQ"},{"kty":"oct","k":"O+eQJDi2B6T
-CvjA8CQae1g","kid":"yI2IZDQk+d9shAop+q18OQ"},{"kty":"oct","k":"bYT/tsbtmNT5mkYEI2glow","kid":"tJqIfIMk+d9shAop+q18OQ"}], "type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"hVU/BiMu72fS16CUP9+JWA","kid":"c0VEMzQk+d9shAop+q18OQ"},{"kty":"oct","k":"X8XS3kh94dzlzLZesadwkg","kid":"u4lEMzQk+d9shAop+q18OQ"},{"kty":"oct","k":"O+eQJDi2B6TCvjA8CQae1g","kid":"yI2IZDQk+d9shAop+q18OQ"},{"kty":"oct","k":"bYT/tsbtmNT5mkYEI2glow","kid":"tJqIfIMk+d9shAop+q18OQ"}], "type":"temporary"}
 https://sglive.akamaized.net/bpk-tv/prod_kplus_sport2hd/default/i.mpd
 #EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+ (MyK+)" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+KIDS HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"E6BDlucKSLYbG17CObWKTA","kid":"l+Hye5jw28/wyFcyiMA/mQ"},{"kty":"oct","k":"zC3gbfPjpDVOURZQLWYTug","kid":"3yXye5jw28/wyFcyiMA/mQ"},{"kty":"oct","k":"EeRrbv5uhuW
-XD2bfE2RlQA","kid":"7Ck2rJjw28/wyFcyiMA/mQ"},{"kty":"oct","k":"9YyA7Qi6KQtknNzMnW/qUA","kid":"2DY2xOfw28/wyFcyiMA/mQ"}], "type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"E6BDlucKSLYbG17CObWKTA","kid":"l+Hye5jw28/wyFcyiMA/mQ"},{"kty":"oct","k":"zC3gbfPjpDVOURZQLWYTug","kid":"3yXye5jw28/wyFcyiMA/mQ"},{"kty":"oct","k":"EeRrbv5uhuWXD2bfE2RlQA","kid":"7Ck2rJjw28/wyFcyiMA/mQ"},{"kty":"oct","k":"9YyA7Qi6KQtknNzMnW/qUA","kid":"2DY2xOfw28/wyFcyiMA/mQ"}], "type":"temporary"}
 https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/i.mpd
+
 #EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ (MyK+)" tvg-logo="http://logo.vagroup.pw/96.png", K+ Life HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"eJrXsDjxebXPUPGPCeLl6A","kid":"osAJZ9QzkWYwiPsnRyf/KQ"},{"kty":"oct","k":"gLvYV5I8XMG4ch6cX871fw","kid":"6gQJZ9QzkWYwiPsnRyf/KQ"},{"kty":"oct","k":"6/Ckg2PrmfF
-Rgx9oRIYMqg","kid":"9whNmNQzkWYwiPsnRyf/KQ"},{"kty":"oct","k":"Zfcql2G2LgvOKClfnapHOw","kid":"4xVNsCMzkWYwiPsnRyf/KQ"}], "type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"eJrXsDjxebXPUPGPCeLl6A","kid":"osAJZ9QzkWYwiPsnRyf/KQ"},{"kty":"oct","k":"gLvYV5I8XMG4ch6cX871fw","kid":"6gQJZ9QzkWYwiPsnRyf/KQ"},{"kty":"oct","k":"6/Ckg2PrmfFRgx9oRIYMqg","kid":"9whNmNQzkWYwiPsnRyf/KQ"},{"kty":"oct","k":"Zfcql2G2LgvOKClfnapHOw","kid":"4xVNsCMzkWYwiPsnRyf/KQ"}], "type":"temporary"}
 https://sglive.akamaized.net/bpk-tv/prod_kplus_lifehd/default/i.mpd
 #EXTINF:-1 tvg-id="klive1hd" group-title="🍭| K+ (MyK+)" tvg-logo="https://logo.anttv.xyz/101.png", K+LIVE 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
