@@ -91,9 +91,10 @@ http://uslive.vthanhtivi.pw/cinemax
 https://ancom.ga/fpt/cinemaworld/bitrate_5000.m3u8
 
 # K+ Cine
-#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/2560px-Sky_Sport_F1_-_Logo_2020.svg.png", Sky Sport F1
-http://103.56.160.133:8081/skysportf1/mpegts
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ (MyK+)" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"nsbdP+VcW0pgGvFVkR9xIg","kid":"ITVkLD21Sq4fgLoqesx3mw"},{"kty":"oct","k":"ZMAKmNPfnR5XZZAk23w5HQ","kid":"aXlkLD21Sq4fgLoqesx3mw"},{"kty":"oct","k":"Uta091wvoyWBO8WetnMtYw","kid":"dn2oXT21Sq4fgLoqesx3mw"},{"kty":"oct","k":"MnHYJfT9A2BLZOppuN9wcw","kid":"YoqodYy1Sq4fgLoqesx3mw"}], "type":"temporary"}
+https://sglive.akamaized.net/bpk-tv/prod_kplus_cinehd/default/i.mpd
 
 #15 Cartoon Network
 ##EXTINF:-1 tvg-id="cartoonhd" tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/QyOuOmc.png" group-title="Quốc Tế",Cartoon Network
