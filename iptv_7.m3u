@@ -65,14 +65,16 @@ https://livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
 ##EXTINF:-1 tvg-id="hbohd" tvg-name="HBO" tvg-logo="https://i.imgur.com/w5u4IrO.png" group-title="Quốc Tế",HBO
 ##http://live.vthanhtivi.pw/hbo
 #EXTINF:-1 tvg-id="hbohd" group-title="🎞| HBO" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO HD
-http://uslive.vthanhtivi.pw/hbo
+# http://uslive.vthanhtivi.pw/hbo
+http://live.vthanhtivi.pw/hbo
 
 
 #13 CineMax
 #EXTINF:-1 tvg-id="cinemaxhd" tvg-name="Cinemax" tvg-logo="https://i.imgur.com/pjnAxys.png" group-title="Quốc Tế",Cinemax
 ##http://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
 ##EXTINF:-1 tvg-id="cinemaxhd" group-title="🎞| HBO" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cinemax HD
-http://uslive.vthanhtivi.pw/cinemax
+http://live.vthanhtivi.pw/cinemax
+
 
 #  TMP 13 CineMax - phim hoat hinh anime
 ##EXTINF:0 tvg-id="animaxhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/MCD31Zy/Animax.png",Animax
@@ -86,9 +88,11 @@ http://uslive.vthanhtivi.pw/cinemax
 
 
 # TMP 12 replace Box Movie
-#EXTINF:-1 tvg-id="cinemaworldhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/f90Rs0F/CMW.png", Cinema World
-#EXTVLCOPT:http-user-agent="KIIP"
-https://ancom.ga/fpt/cinemaworld/bitrate_5000.m3u8
+#EXTINF:-1 tvg-id="cinemaworldhd" group-title="🎬| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/231.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemawork_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cinema World
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=523
+https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
 
 # K+ Cine
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ (MyK+)" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
