@@ -2,11 +2,15 @@
 
 # 1-3 vtv
 #EXTINF:-1 tvg-id="vtv1hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" catchup="append" catchup-days="2" catchup-source="https://code.hqth.xyz/xemlai/mytv/210/hd/dvr-${start}-${offset}.m3u8", VTV1
-https://code.vthanhtivi.pw/getlink/tv360/2/playlist.m3u8
+#https://code.vthanhtivi.pw/getlink/tv360/2/playlist.m3u8
+http://stream.cvmtv.site:1000/VTV1HD?token=live
+
 #EXTINF:-1 tvg-id="vtv2hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png" catchup="append" catchup-days="2" catchup-source="https://code.hqth.xyz/xemlai/mytv/377/hd/dvr-${start}-${offset}.m3u8", VTV2
-https://code.vthanhtivi.pw/getlink/tv360/3/playlist.m3u8
+#https://code.vthanhtivi.pw/getlink/tv360/3/playlist.m3u8
+http://stream.cvmtv.site:1000/VTV2HD?token=live
 #EXTINF:-1 tvg-id="vtv3hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png" catchup="append" catchup-days="2" catchup-source="https://code.hqth.xyz/xemlai/mytv/211/hd/dvr-${start}-${offset}.m3u8", VTV3
-https://code.vthanhtivi.pw/getlink/tv360/4/playlist.m3u8
+#https://code.vthanhtivi.pw/getlink/tv360/4/playlist.m3u8
+http://stream.cvmtv.site:1000/VTV3HD?token=live
 
 
 
