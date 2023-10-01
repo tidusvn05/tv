@@ -70,24 +70,21 @@ https://code.vthanhtivi.pw/getlink/tvfree/cinemax/playlist.m3u8
 
 
 # TMP 12 replace Box Movie
-#EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
-http://sg.tinchuanchuaanh.com:8080/BOX_MOVIE_1/index.m3u8
+# #EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
+# http://sg.tinchuanchuaanh.com:8080/BOX_MOVIE_1/index.m3u8
 
 # K+ Cine
-##EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ (MyK+)" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"nsbdP+VcW0pgGvFVkR9xIg","kid":"ITVkLD21Sq4fgLoqesx3mw"},{"kty":"oct","k":"ZMAKmNPfnR5XZZAk23w5HQ","kid":"aXlkLD21Sq4fgLoqesx3mw"},{"kty":"oct","k":"Uta091wvoyWBO8WetnMtYw","kid":"dn2oXT21Sq4fgLoqesx3mw"},{"kty":"oct","k":"MnHYJfT9A2BLZOppuN9wcw","kid":"YoqodYy1Sq4fgLoqesx3mw"}], "type":"temporary"}
-#https://sglive.akamaized.net/bpk-tv/prod_kplus_cinehd/default/i.mpd
+#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE - MyK+
+http://vthanhtivi.pw:5000/kcine/index.m3u8
+
+# K+ Sport
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 - MyK+
+https://asia.vthanhtivi.pw/test/index.m3u8
 
 # sctv phim TH thay thế K+ Cine
-#EXTINF:-1 tvg-id="sctvhdpth" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/102.png", SCTV HD Phim Tổng Hợp
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://code.vthanhtivi.pw/getlink/sctvonline/sctvpth/playlist.m3u8
-
-#15 Cartoon Network
-##EXTINF:-1 tvg-id="cartoonhd" tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/QyOuOmc.png" group-title="Quốc Tế",Cartoon Network
-#http://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
-
+# #EXTINF:-1 tvg-id="sctvhdpth" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/102.png", SCTV HD Phim Tổng Hợp
+# #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+# https://code.vthanhtivi.pw/getlink/sctvonline/sctvpth/playlist.m3u8
 
 #15 TMP Cartoon Network
 #EXTINF:-1 tvg-id="cartoonhd" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png", Cartoon Network HD
@@ -140,38 +137,8 @@ https://code.vthanhtivi.pw/getlink/cliptv/46d16ad3eb2e0bb67ae648886bae177a/16954
 #EXTINF:-1 tvg-id="htvcphimhd" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/60.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Phim HD
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
 
-# #21 ==== removed ====
-# #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="http://logo.vagroup.pw/97.png",K+ Sport1
-# #KODIPROP:inputstream.adaptive.license_type=clearkey
-# #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"HOW1RaCEFyqVbP6anu27Gw","kid":"1vpaoObBS3yDCU67NlMUow" },{ "kty":"oct","k":"n/GALqFCYQOdmoMyAsFxcA","kid":"Hj5aoObBS3yDCU67NlMUow" },{ "kty":"oct","k":"GaJAH7ce+2G+AHPd6Tchpw","kid":"K0Ke0ebBS3yDCU67NlMUow" },{ "kty":"oct","k":"Us0c6x1HM5EBoILfeKUvAQ","kid":"F0+e6TXBS3yDCU67NlMUow" } ],"type":"temporary" }
-# #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)" 
-# https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/i.mpd
 
-# #22
-# #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="http://logo.vagroup.pw/98.png",K+ Sport2
-# #KODIPROP:inputstream.adaptive.license_type=clearkey
-# #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"N9Sl/THUJsmznOrc+/V2Fw","kid":"K8Meg3/GTTicYuE9iUjUrQ" },{ "kty":"oct","k":"51lqB+q93DwkCRi69M1YgA","kid":"cwceg3/GTTicYuE9iUjUrQ" },{ "kty":"oct","k":"u9UEV/Sc5r62dAGxnooljw","kid":"gAtitH/GTTicYuE9iUjUrQ" },{ "kty":"oct","k":"918gOCJDFg7FPbDuqVGhPQ","kid":"bBhizM7GTTicYuE9iUjUrQ" } ],"type":"temporary" }
-# https://sglive.akamaized.net/bpk-tv/prod_kplus_sport2hd/default/i.mpd
-
-# #23
-# #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="http://logo.vagroup.pw/95.png",K+ Cine
-# #KODIPROP:inputstream.adaptive.license_type=clearkey
-# #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"CoFEgBN6e3I+PrYmPfNp4g","kid":"q6zp42P1TJaeJJnE8Jol9A" },{ "kty":"oct","k":"uZCHlIrjwaAIeggI85vtAQ","kid":"8/Dp42P1TJaeJJnE8Jol9A" },{ "kty":"oct","k":"f7lu/2d25IFqUtlII3Yizw","kid":"APQtFGP1TJaeJJnE8Jol9A" },{ "kty":"oct","k":"GzNLfAuVCmnmc2bWnrfXUg","kid":"7AEtLLL1TJaeJJnE8Jol9A" } ],"type":"temporary" }
-# https://sglive.akamaized.net/bpk-tv/prod_kplus_cinehd/default/i.mpd
-
-# #24
-# #EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="http://logo.vagroup.pw/96.png",K+ Life
-# #KODIPROP:inputstream.adaptive.license_type=clearkey
-# #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"H+9EefaBAsYzYGlF8//Cxg","kid":"m27zX1QJT7uoQ4wmdehJbQ" },{ "kty":"oct","k":"wotGryjps4FrAZW8WhdedQ","kid":"47LzX1QJT7uoQ4wmdehJbQ" },{ "kty":"oct","k":"jCLU6IM/x7G6y90MmF1VAg","kid":"8LY3kFQJT7uoQ4wmdehJbQ" },{ "kty":"oct","k":"0rjoxBnu44jsGslmP8O9aQ","kid":"3MM3qKMJT7uoQ4wmdehJbQ" } ],"type":"temporary" }
-# https://sglivevng.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
-
-# #25
-# #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="http://logo.vagroup.pw/188.png",K+ Kids
-# #KODIPROP:inputstream.adaptive.license_type=clearkey
-# #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"36PLv8UXf9/cVfAsjnltJA","kid":"5xlj/pNsTOCTxWxYKWsx6w" },{ "kty":"oct","k":"7fz9h3RZue3YZ8blOzPxTg","kid":"L11j/pNsTOCTxWxYKWsx6w" },{ "kty":"oct","k":"wrwAyM/Y1XoHADqMUHDQog","kid":"PGGnL5NsTOCTxWxYKWsx6w" },{ "kty":"oct","k":"N1+dNPdfy52r8zv0kGXgAQ","kid":"KG6nR+JsTOCTxWxYKWsx6w" } ],"type":"temporary" }
-# https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/i.mpd
-
-# ---- K+ Channels ----
+# ---- K+ Channels 21 - 25 ----
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE - MyK+
 http://vthanhtivi.pw:5000/kcine/index.m3u8
 #EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ LIFE - MyK+
