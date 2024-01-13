@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,http://trada.info/epg.xml"
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml,http://cdn.hqth.me/vthanhmovies_schedule.xml" billed-msg="Tham gia group Zalo để nhận thông báo: https://zalo.me/g/uxqzbn404"
+#Hôm nay đã có 14204 lượt truy cập tới list
 
 # VTV 1-3
 #EXTINF:-1 tvg-id="vtv1hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
