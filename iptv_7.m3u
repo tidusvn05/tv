@@ -5,13 +5,13 @@
 # VTV 1-3
 #EXTINF:-1 tvg-id="vtv1hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMnJIQm5OWGNrNjFMRCtSb28xQzViUg==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uTC8yaGhOc2RDTW9LdTNvaC9iL1piMA==/master.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMkRTOFFCdUM1MU1JQlRRK1J3aWh2aQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSzhHM2duUWNXV0JUSWlvbHhqeDc1NQ==/master.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrM3FSSVRtSWNlUkJxK1dJd2g0TjNoTA==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uTHJqODkxTVJ1ZjJ2eXEyakp4QzhURQ==/master.m3u8
 
 #4 ANTV
 #EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/90.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ANTV HD
@@ -19,36 +19,36 @@ https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
 
 #5 VTV5
 #EXTINF:-1 tvg-id="vtv5hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png" catchup="append" catchup-days="2" catchup-source="https://code.hqth.xyz/xemlai/mytv/379/hd/dvr-${start}-${offset}.m3u8", VTV5
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrM1ZyaUhLRkJBUDZrQjlIck1aWHlld2Z6ZnNqRDZmeTZ0KzZ6MFEwc2FqZWc9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSTZOZmlxVnZlUnlvb0ExdzRtS0wzOUZCWG1WTkNBL0w3ZFZ4TTJmWXk5cGc9PQ==/master.m3u8
 
 #6 HTV Thuan viet
 #EXTINF:-1 tvg-id="htvcthuanviet" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/54.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthuanviet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Thuần Việt
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMWlCaDBLRzlJYU5CRGxBRTErL0h1bXdkZ1dCQ29jTlY4cWowSE1XMkF1ZjhnbE0xaGhOZjRMNXdtcDBBcGtHTzQ9/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uS2ZnWjhNR3M4bG5HYnhudkhBUXRzYzRUZE4wbHBaaFhIbVdCbjh4Mysyc0FoRTM3SG1qc21pK0RHQzlUWm9CWE09/master.m3u8
 
 #7 HTV7
 #EXTINF:-1 tvg-id="htv7hd" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/51.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/htv7-hd/dvr-${start}-${offset}.m3u8", HTV7 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMjFkVE5XZi9KdWcyUWN4K3VvN0VXeHlObUt0OXRCcU10d2NpNlpad0JJaWc9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSTZONS81MFpnVDREREZlQ3VLVU9SVDZhUWxpQkYzdmNaaXRaUHNIYkpLVHc9PQ==/master.m3u8
 
 
 #8 HTV2
 #EXTINF:-1 tvg-id="htv2hd" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/48.png" catchup="append" catchup-days="6" catchup-source="https://code.hqth.xyz/xemlai/hplus/htv2-hd-2669/dvr-${start}-${offset}.m3u8", HTV2 - Vie Channel
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMWlCaDBLRzlJYU5CRGxBRTErL0h1bUJZOEFhdEI3bCsxdlYwam5ubGRRaUE9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uS2ZnWjhNR3M4bG5HYnhudkhBUXRzY3NNb0o4bjFvQkwxTVVjRUZQa2EzZFE9PQ==/master.m3u8
 
 #9 HTV9
 #EXTINF:-1 tvg-id="htv9hd" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/52.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/htv9-hd/dvr-${start}-${offset}.m3u8", HTV9 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMjFkVE5XZi9KdWcyUWN4K3VvN0VXeDRXZzJFWjNtTnBlb1RSdGY1dmloUHc9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSTZONS81MFpnVDREREZlQ3VLVU9SVEdCYXVtMUlsT1p6SXF4emhPNnphNVE9PQ==/master.m3u8
 
 #10 THVL 1
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vinhlong1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", THVL1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMnZNRENSdmZldFV4TndzZzN3a3hVVHRKZ1ROMnA0NkZHVnlNTUlSMjJ4dUE9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSVFwdFpWOWhtTURIOUI5aHhua1NBdHNaMUViNnVWWjR2NXhWNDJxd2xTVHc9PQ==/master.m3u8
 
 #11 THVL 2
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/104.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vinhlong2_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", THVL2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMnZNRENSdmZldFV4TndzZzN3a3hVVExGcDJEL3NJekNrKzhnN1Y0d1lPVkE9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSVFwdFpWOWhtTURIOUI5aHhua1NBdDU0TVV2L3ltT2lLdkgwdzFvbVRrTEE9PQ==/master.m3u8
 
 ## 12 HBO
 #EXTINF:-1 tvg-id="hbohd" group-title="🎞| HBO" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO HD
@@ -102,49 +102,49 @@ http://viettel.nekocdn.xyz/CartoonNetwork/index.m3u8
 #16 VTVcab2 - ON Phim Việt
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/13.png", ON Phim Việt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrM2FLMVNvUm5oTU1GakpQRUY0Q3E5TGQ0Y1YwWFFRalJJMXJtRTFPL0E4QlE9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uTG5ZZzB4cnhINzdPeTRaUGFOY1BiSDZsMEVnendkQStPZGFtMGc1WkdPNnc9PQ==/master.m3u8
 
 
 #17 On Cine
 #EXTINF:-1 tvg-id="vtvcab10hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/21.png", ON Cine
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrM2FLMVNvUm5oTU1GakpQRUY0Q3E5TFpFZjFGUVFNQmF2SXFZSEdFWFRqM2c9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uTG5ZZzB4cnhINzdPeTRaUGFOY1BiSEVyMFpmQnpmQTdQeWh5ZEN5VFBQa1E9PQ==/master.m3u8
 
 #18 on phim
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/15.png", ON Movies
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMXVCZnozSkx2RjFSTk4vZG85bUN4Si9sSG44WEQ0NUV1QWhhQlRoT3lvb2c9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uTG5kcWxYVWlFRm9zK1ZPTEF5bGFNdmRHdFlmM2tVSDJOamRNUUN3YW5RMEE9PQ==/master.m3u8
 
 
 #20 htv the thao
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV Thể Thao
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMjFkVE5XZi9KdWcyUWN4K3VvN0VXeHMweUwvdmo4aDdOM3pXV1JMUVU1S0E9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSTZONS81MFpnVDREREZlQ3VLVU9SVFkvZC85S2xNZ0F3Z1hUQTJLd3RuaGc9PQ==/master.m3u8
  
 #21 On Sport
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png", ON Sports HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMUJzcWIvbGw1ejBDV3h0ZWtYRzFZZzZlVlpQeDJDcUQwUHVkcXB2SlNhM0I3MkJKQW1EWTJxZXplZlNpQ0ZENm1MUFpWaVVZaUo5UGdhZlNVYW9oakk=/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSkR1TDM3elRBNG5DMmIvU0IyaHNEdXkremVJNDk5UjZTVUhjbkZPMVdVOUxFNmExdzdYSklBVFcwWDNBWWEyNVB3Tnc1NUtQWFZnckFTOHJhbUY3eW0=/master.m3u8
 
 #22 On Football
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png", ON Football HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMGtHU21yYXNIdlB6Q3NTY0tSUUVEakx2NzBXM2ZsRVE3WDNuSFBWcVdCNlBWbDI0aEEzM1ZEbzFFQkJZTjJsRjczbFhMMy9XbGhzMU5VbFh0K0RjRHk=/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSjlCVkV1V2NPb2lZV1E0bHo4WVVhU2tyajFwQlRmQ1ZBL1RvVnFMallFL1haUzdPSXRwTm1vNU5uTjZxKytYcFBkZnlFUGdFRlpDVmxLckpWQkFtUDY=/master.m3u8
 
 
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrM2xSaXc3YVN5NlFHMVB3Tzh4emg2eTAvUnA4YVVXdU5ja1lmMkl5YjR2aVE9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSzN2THA0THRmN0RQMis0eVNneThWU25YS1V3Nk1VencyOWNpZHBCQUR1V2c9PQ==/master.m3u8
 
 #EXTINF:-1 tvg-id="inthebox" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMmdySGFQQm5TOXdhY1MwM0hhWUt3dHdZZldjNjZ2RmwzaCt4RjAwVnI3bVE9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSURhaE85YkJjNXlJL3B1c2hBTGZFL1JmVG9PWWRXTndtL1ZJNHIrNHIxT0E9PQ==/master.m3u8
 
 
 #EXTINF:-1 tvg-id="boxhits" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMmdySGFQQm5TOXdhY1MwM0hhWUt3dG11SE9VeWZkSkpRVVRmWHZxMVg5RkE9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSURhaE85YkJjNXlJL3B1c2hBTGZFL0lRS2Irb2RPUUUvMnNGQnVRZ2FCZmc9PQ==/master.m3u8
 
 #2 HTVC Phim
 #EXTINF:-1 tvg-id="htvcphimhd" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/60.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Phim HD
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMWlCaDBLRzlJYU5CRGxBRTErL0h1bUJPOVlhdnJRblJ6ZzVWUm5SZG5VdUE9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uS2ZnWjhNR3M4bG5HYnhudkhBUXRzY2UvNDNjbUxIVEI1WU8vd0NXOTJoUmc9PQ==/master.m3u8
 
 
 # ---- K+ Channels 21 - 25 ----
@@ -163,36 +163,36 @@ https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uO
 # ----Dia Phuong----
 #26 thvl 3 
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/105.png" catchup="append" catchup-days="7" catchup-source="https://code.hqth.xyz/xemlai/thvli/thvl3/dvr-${start}-${offset}.m3u8", THVL3 HD
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMnZNRENSdmZldFV4TndzZzN3a3hVVHdyZEU5dDRFR3l1dmtEVjNYdzZ0L0E9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSVFwdFpWOWhtTURIOUI5aHhua1NBdFF0UmNUYzVFeUZqejJ2VC9naHhGVGc9PQ==/master.m3u8
 
 #27 thvl 4
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/106.png" catchup="append" catchup-days="7" catchup-source="https://code.hqth.xyz/xemlai/thvli/thvl4/dvr-${start}-${offset}.m3u8", THVL4 HD
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMnZNRENSdmZldFV4TndzZzN3a3hVVFpqOVdxYlhUK1VwSzk5K09pTFBlYnc9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSVFwdFpWOWhtTURIOUI5aHhua1NBdGNwMHgrTEJVWE5jYjRtU1hjUlFBOGc9PQ==/master.m3u8
 
 #28 htvc gia dinh
 #EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/56.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcgiadinh_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Gia đình HD
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMWlCaDBLRzlJYU5CRGxBRTErL0h1bVBNVnNsbzVBOVJxc0NRZFZoTytSSWJTS2w1WWtFdTRlczFQK01oQjZsa2M9/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uS2ZnWjhNR3M4bG5HYnhudkhBUXRzY2taT09SNDQzTVk5WlNhQ2o5OEFLWnI2S3dxbVhPc3ZrSEJhTFdUOEc0RzQ9/master.m3u8
 
 #29 htvc phu nu
 #EXTINF:-1 tvg-id="htvcphunuhd" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/57.png" catchup="append" catchup-days="2" catchup-source="https://code.hqth.xyz/xemlai/vieon/htvc-phu-nu/dvr-${start}-${offset}.m3u8", HTVC Phụ nữ HD
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMWlCaDBLRzlJYU5CRGxBRTErL0h1bW95ZHhVSUN0T2ZkMUgyUzBKOWd6WWY1NGZnb0ZkV3NSZmVJK0FLWnZqQUk9/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uS2ZnWjhNR3M4bG5HYnhudkhBUXRzY3M1MU4zcy9rTzJ4elp3NTNBV0F6ZGdEMHU5Nk9sWHBTeldjODkzejRuVWM9/master.m3u8
 
 #30 htvc  du lịch
 #EXTINF:-1 tvg-id="htvcdulichhd" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/58.png" catchup="append" catchup-days="2" catchup-source="https://code.hqth.xyz/xemlai/vieon/htvc-du-lich-cuoc-song/dvr-${start}-${offset}.m3u8", HTVC Du lịch Cuộc sống HD
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMWlCaDBLRzlJYU5CRGxBRTErL0h1bVpRaUFFNHJnVnFnbUxJeTVnTFAyQ1Q5dDhIN1dXY2RxZmJpK2xBRWluWjBWTDJza05TRHl2NExDdFNJUkswOFg=/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uS2ZnWjhNR3M4bG5HYnhudkhBUXRzY0lGZ0o1STc0TmRNY2J5ek9vS1pQWGV0UEJFUTN3VEwydXhmQkxDY2FmZmoyeDBYZW8xcTEya04xaHNFeXNxamo=/master.m3u8
 
 #31 htvc ca nhạc
 #EXTINF:-1 tvg-id="htvccanhachd" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/59.png" catchup="append" catchup-days="2" catchup-source="https://code.hqth.xyz/xemlai/vieon/htvc-ca-nhac/dvr-${start}-${offset}.m3u8", HTVC Ca nhạc HD
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMWlCaDBLRzlJYU5CRGxBRTErL0h1bWxPWmdid29iVktxR0pka0FvQlg4dU5JS1Zvd0ZKNnNtdUJhL29xM216cG89/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uS2ZnWjhNR3M4bG5HYnhudkhBUXRzY3VjYTVEVUh3a1ExNk83d2daZW9HR3VxUWpWY0V5VUxQWnpwSTlWbkxRMjA9/master.m3u8
 
 #32 htvc +
 #EXTINF:-1 tvg-id="htvcplushd" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/61.png" catchup="append" catchup-days="2" catchup-source="https://code.hqth.xyz/xemlai/vieon/htvc-plus/dvr-${start}-${offset}.m3u8", HTVC Plus HD
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMWlCaDBLRzlJYU5CRGxBRTErL0h1bWxmR20rTGRUeWhYWWozUHBndUExRzFsS0JBaE90dWhxeWM3aFpIUkhGcVU9/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uS2ZnWjhNR3M4bG5HYnhudkhBUXRzY3BZaXFZUWpZU0JSTm1vTnRibGlRQUgvaGFDWFVJYyt5UVpkVGs1aStTc0U9/master.m3u8
 
 #33 On Music
 #EXTINF:-1 tvg-id="vtvcab15hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/23.png", ON Music
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMXVCZnozSkx2RjFSTk4vZG85bUN4Sms5RFE5dFhNVGtPRmt0KzF4cHg5TUE9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uTG5kcWxYVWlFRm9zK1ZPTEF5bGFNdm5kcDNLanRnME8yeGg0MjdzTVUxMVE9PQ==/master.m3u8
 
 
 # --- mien tay ---
@@ -219,11 +219,11 @@ https://60acee235f4d5.streamlock.net/HGTV/d1/chunklist_w1285809548.m3u8
 
 #39 Dong nai 1
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://i.ibb.co/9TBsXRP/dongnai1-BEARTV.png",ĐNRTV1 HD | TH Đồng Nai
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMm9mVTduQXdEVktxR28wL1BCS2tmT0psSHAyK2J6QjYrS0hsaFlCUjFHZEE9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSjB2YTdEdDNZd0dLMXdSWkFnTzUwQWlTMUFoZVJ4STVVY3RsY21YekxIMEE9PQ==/master.m3u8
 
 #40 dong nai 2
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://i.ibb.co/6B0LCKJ/dongnai2-BEARTV.png",ĐNRTV2 HD | TH Đồng Nai
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMVpyVDdrQWMxOXJZZWxBajBtdHMrcmVJbE5IZHU0djBYbFh0TGg0RjhJZ3c9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uTG1wMm5PV1VzVmdhb0Izdm1tSVovR1NFbTFrSVBGblZjbzc5L1BKUTJIUXc9PQ==/master.m3u8
 #EXTINF:-1 tvg-id="dongnai3" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/135.png", ĐNRTV3 | TH Đồng Nai
 https://code.vthanhtivi.pw/getlink/dnlive/dnrtv3/playlist.m3u8
 
@@ -238,16 +238,16 @@ https://code.vthanhtivi.pw/getlink/vieon/7kmdmXiAGIEBlsPrAOVt9A/1703867935/binh-
 # --- Thiếu Nhi ---
 #31 happy kid
 #EXTINF:-1 tvg-id="happykids" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png", Happy Kids
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMnFZTlV5S3JEL1FjdEV4T2EzdUduNTY0R0JQdFNhSm5WSlRFdFF2NWFjemc9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uS1JYK3NMazhhclhwRk1HNzZ3RFNyaVplVW9Sa200NlhGc0g2QkZ1ZHUyQnc9PQ==/master.m3u8
 
 #32 Bibi
 #EXTINF:-1 tvg-id="vtvcab8hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/19.png", ON BiBi
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrM2FLMVNvUm5oTU1GakpQRUY0Q3E5TDJqUU9hZ1VlVWJkK0hjT0pCRWV5QUE9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uTG5ZZzB4cnhINzdPeTRaUGFOY1BiSFJLZkdjZjR4ZUJnT1N1RzVuMVFwUkE9PQ==/master.m3u8
 
 
 #33 ON Kid  
 #EXTINF:-1 tvg-id="vtvcab21hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/29.png", ON Kids
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrM2FLMVNvUm5oTU1GakpQRUY0Q3E5TDFwalRwYjJmZWRqbkkydFFjTU5lR1E9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uTG5ZZzB4cnhINzdPeTRaUGFOY1BiSFZaNXJLRnR0eHd6UUlWcjIvRnZHaFE9PQ==/master.m3u8
 
 #34 Baby first
 # #EXTINF:-1 tvg-id="babyfirst" group-title="Thiếu Nhi - Hoạt Hình" tvg-name="Baby First" tvg-logo="https://i.imgur.com/HVfKK9I.png",Baby First
@@ -289,35 +289,35 @@ https://code.vthanhtivi.pw/getlink/tv360/IP36nuyjnyChfy5fXEcA8A/1701018955/180/p
 
 #46
 #EXTINF:-1 tvg-id="musicbox" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png" catchup="append" catchup-days="2" catchup-source="https://code.hqth.xyz/xemlai/mytv/69/hd/dvr-${start}-${offset}.m3u8", Music Box
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMi9vTi9xMXdxVk1rSExTd1MwS0MvcnErU1lCRENNcG5sbW02empnLzZ6U2c9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uTGI1OEdtL0hDZ3QyWjVuZDNRb0VEbk5FQVBDaU01NUpVRzcwdVM0Q01IV2c9PQ==/master.m3u8
 
 
 
 # --- other vtv ----
 #EXTINF:-1 tvg-id="vtv4hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png" catchup="append" catchup-days="2" catchup-source="https://code.hqth.xyz/xemlai/mytv/378/hd/dvr-${start}-${offset}.m3u8", VTV4
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMDQ0UUxWYjUyTStvaGlsNGhzQ0pvRElaSzlnOE9rcUx5MVVNZUtxN3YzWlE9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSTVzWE1ORVljeklZRWtiQ2JrUGFScDFOSVVTYkUvQXFHNS9TcDlkVTF2QlE9PQ==/master.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png" catchup="append" catchup-days="2" catchup-source="https://code.hqth.xyz/xemlai/mytv/459/hd/dvr-${start}-${offset}.m3u8", VTV7
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMERXRnhrSHUrWTZ1ZWRLRFNXZDI1TQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uS3pRcUlkcSsxVk5JdHYvTE16YWZGag==/master.m3u8
 #EXTINF:-1 tvg-id="vtv8hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png" catchup="append" catchup-days="2" catchup-source="https://code.hqth.xyz/xemlai/mytv/380/hd/dvr-${start}-${offset}.m3u8", VTV8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrM1ZyaUhLRkJBUDZrQjlIck1aWHlld2lMZWd5ZGFhMTBKYThyNGFPVkJSTGc9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSTZOZmlxVnZlUnlvb0ExdzRtS0wzOU1menUwemRsSGpGUk8vNkZiVDhmRmc9PQ==/master.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png" catchup="append" catchup-days="2" catchup-source="https://code.hqth.xyz/xemlai/mytv/381/hd/dvr-${start}-${offset}.m3u8", VTV9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrM3pqN3UxV0JyVFZSblZibFJxclpmTw==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSVdNZ2FRN1lSam1veDdzdFZmbHQ2MQ==/master.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png" catchup="append" catchup-days="2" catchup-source="https://code.hqth.xyz/xemlai/mytv/212/hd/dvr-${start}-${offset}.m3u8", VTV Cần Thơ
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMEN2d0lQYTRKMmFENTczenlUZllNQmdvNVR4RVFJUm5iZ1N4U0R2QWJ1UXc9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSlFVWlpvU1ZqZURRZHk3RGdiRlZSbHpwSUhiUVRiKzNncE5keVVYS3kyclE9PQ==/master.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv5tnb_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV5 Tây Nam Bộ
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMUxzOWFKK0JQVitQcEx6ZlZ6MEdMazdJcHJUNkZLYVpuZURWdEFDMDRWSmc9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uTGJPRFoxWC9WWkJCTW9oOGpSL2FQTFdQc2ZiK0diQmR2dEsxYURSUTk1Umc9PQ==/master.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png", ON Sports News
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMlU4SU9LOTVUTEJneDRScWIzaHBNNkNycXRPaUNqYjNZb1NJT3p0cUVnLzhKRlcxVjhMVno2SUZOVE5hcGhwNWhvZU42NEZjSnFSRE84ZCtvdXl3K0o=/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uS2kwVkJUUGVZbm5rUHArT1lJM0hFUWVxMnRFZFhpZmNiK0hjTXVZRDZ6bkl3ZE54Vkt1em0vYUNmQzVIUjhoWWUzd2Fsb3dXWmlWdnVkVHc1TDJReS8=/master.m3u8
 
 
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/17.png", ON Sports+
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMkNxeWFGcitUWFZURWpndzlWRUdZaU16Z0x4TFNRVVhFZHZZTDc0SU9VR0E9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSk9QbFRMcmtEWk5HQ0UvZFQ2bHFFY05tOEo5MzF6TWdmTG51T3FRaXFUTmc9PQ==/master.m3u8
 
 
 
@@ -332,10 +332,10 @@ https://1236573804.pop.vnptcdn.com/VTC2/playlist.m3u8
 https://1236573804.pop.vnptcdn.com/VTC3/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc4hd" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/35.png", VTC4 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMjFkVE5XZi9KdWcyUWN4K3VvN0VXeEM3K2FIV1YzT1BISHFzYXFlL25kSVE9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSTZONS81MFpnVDREREZlQ3VLVU9SVEpZdEVOVnBBbXlVaGtHbkh5RGVoYlE9PQ==/master.m3u8
 #EXTINF:-1 tvg-id="vtc5hd" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/36.png", VTC5 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMjFkVE5XZi9KdWcyUWN4K3VvN0VXeGEwQzFkcEh4SHNTd1h1dDFwV1VPZEE9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSTZONS81MFpnVDREREZlQ3VLVU9SVGx5b3BjbXl0YUJiMTlXRnM1Q1dIRkE9PQ==/master.m3u8
 #EXTINF:-1 tvg-id="vtc6hd" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/37.png", VTC6 HD
 https://1236573804.pop.vnptcdn.com/VTC6/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc7hd" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/38.png", VTC7 HD - TodayTV
@@ -367,92 +367,92 @@ https://1236573804.pop.vnptcdn.com/VTC16/playlist.m3u8
 #-*--SCTV-*--#
 #EXTINF:-1 tvg-id="sctv1hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/63.png", SCTV1 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMWdTR25uMmQ0YTg3c0k3dzV4S0ZDZUV2R2tjQW03WHpDOWhFbklRdm9hS3c9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSjFpREk0dHUwMExLSldyUUQ0WlhrM1RSUWxHTjhmbjI1V1o2TWMvRjdLR3c9PQ==/master.m3u8
 #EXTINF:-1 tvg-id="sctv2hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/64.png", SCTV2 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMWdTR25uMmQ0YTg3c0k3dzV4S0ZDZUJ1cExWVjlNUlBYTThNM1VUbDk1NVE9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSjFpREk0dHUwMExLSldyUUQ0WlhrM0Z1Y1lONHp4dUkybTIyVTRMS2g3Q3c9PQ==/master.m3u8
 #EXTINF:-1 tvg-id="sctv3hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/65.png", SCTV3 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMWdTR25uMmQ0YTg3c0k3dzV4S0ZDZTB5c2dXTHdnYWdseXFyaEpHREFuVGc9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSjFpREk0dHUwMExLSldyUUQ0WlhrM2VMMExYejJaU3VVUjhJOWVGQ1VTdUE9PQ==/master.m3u8
 #EXTINF:-1 tvg-id="sctv4hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/66.png", SCTV4 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMWdTR25uMmQ0YTg3c0k3dzV4S0ZDZVlQSk1lcjhNMko3d0RuaDZlcHE3YUE9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSjFpREk0dHUwMExLSldyUUQ0WlhrM0xSWThCR2dWTXlkVHlDZ21ORmpHbUE9PQ==/master.m3u8
 #EXTINF:-1 group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/67.png", SCTV5 HD - SCJ
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://code.vthanhtivi.pw/getlink/sctvonline/sctv5/playlist.m3u8
 #EXTINF:-1 tvg-id="sctv6hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/68.png", SCTV6 HD
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMmdySGFQQm5TOXdhY1MwM0hhWUt3dFpKNW5YRXc0Y0t0UlZBL1BSOG5sNEE9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSURhaE85YkJjNXlJL3B1c2hBTGZFL2VrU3dPYmFQUTdnWmEwZVRDVXVkTXc9PQ==/master.m3u8
 #EXTINF:-1 tvg-id="sctv7hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/69.png", SCTV7 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMWdTR25uMmQ0YTg3c0k3dzV4S0ZDZURpeW1qNi8vWWlMcEJwa1FWVGtkOXc9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSjFpREk0dHUwMExLSldyUUQ0WlhrM0x2NW5JdWFhRnVHd1BrODhuT2QxbFE9PQ==/master.m3u8
 #EXTINF:-1 tvg-id="sctv8hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/70.png", SCTV8 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMWdTR25uMmQ0YTg3c0k3dzV4S0ZDZUJLMlJ4N1ZUMDVVTThMY0tOQnlCR0E9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSjFpREk0dHUwMExLSldyUUQ0WlhrM3BPbUxvZXNPQ1k3bTNiY3lxb0lOMVE9PQ==/master.m3u8
 #EXTINF:-1 tvg-id="sctv9hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/71.png", SCTV9 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMWdTR25uMmQ0YTg3c0k3dzV4S0ZDZXY2ZkdIbGdVOFNtRUJ6a1REUUZIUVE9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSjFpREk0dHUwMExLSldyUUQ0WlhrM0dOaGZBVDdONktlbFhLMHplSWxmV0E9PQ==/master.m3u8
 #EXTINF:-1 group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/72.png", SCTV10
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://code.vthanhtivi.pw/getlink/sctvonline/sctv10/playlist.m3u8
 #EXTINF:-1 tvg-id="sctv11hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/73.png", SCTV11 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMWdTR25uMmQ0YTg3c0k3dzV4S0ZDZUozUmtxQzlnTXdWOXYyTWZaUDV6aEE9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSjFpREk0dHUwMExLSldyUUQ0WlhrMzdDY1VhMjd0UUhqSjVybjdwMS8xa1E9PQ==/master.m3u8
 #EXTINF:-1 tvg-id="sctv12hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/74.png", SCTV12 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMWdTR25uMmQ0YTg3c0k3dzV4S0ZDZWprd2pZeWQyeXBtTFRJWC9kSSswYWc9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSjFpREk0dHUwMExLSldyUUQ0WlhrM1dlbi9leXFBZnNGZDhFTXlFSWpPd3c9PQ==/master.m3u8
 #EXTINF:-1 tvg-id="sctv13hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/75.png", SCTV13 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMWdTR25uMmQ0YTg3c0k3dzV4S0ZDZTNkOGpKcVc3RnZGYVVKNjNBZ1dhWXc9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSjFpREk0dHUwMExLSldyUUQ0WlhrM1NabFg0bGY1RVZ6MVVxbWUyTGY4bFE9PQ==/master.m3u8
 #EXTINF:-1 tvg-id="sctv14hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/76.png", SCTV14 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMWdTR25uMmQ0YTg3c0k3dzV4S0ZDZWtWUFcyWTNKbXFJSHhoclhLN2NNWXc9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSjFpREk0dHUwMExLSldyUUQ0WlhrM2d1MkM0dVk4VEQyYktRSGV4QXkrUXc9PQ==/master.m3u8
 #EXTINF:-1 tvg-id="sctv15hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/77.png", SCTV15 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMWdTR25uMmQ0YTg3c0k3dzV4S0ZDZWVWZWdxMUhodCttYWNVTmpuQVp0Unc9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSjFpREk0dHUwMExLSldyUUQ0WlhrMytBTllkNXkwM3lxcE82WHZkOUVzQVE9PQ==/master.m3u8
 #EXTINF:-1 tvg-id="sctv16hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/78.png", SCTV16 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMWdTR25uMmQ0YTg3c0k3dzV4S0ZDZS8waXFmYThiKyt5MElhcy9FcnN6NXc9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSjFpREk0dHUwMExLSldyUUQ0WlhrM09ORWhML3FGRDRzSTkzcWRvVittSWc9PQ==/master.m3u8
 #EXTINF:-1 tvg-id="sctv17hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/79.png", SCTV17 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMWdTR25uMmQ0YTg3c0k3dzV4S0ZDZWNCaGdzaE1SeGVIZjdKUjMxS01VelE9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSjFpREk0dHUwMExLSldyUUQ0WlhrM0pFczNpYTJxS3ZuYU15RzdvZnZkbXc9PQ==/master.m3u8
 #EXTINF:-1 tvg-id="sctv18hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/80.png", SCTV18 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMWdTR25uMmQ0YTg3c0k3dzV4S0ZDZVV1YjZuTnNFYjA0RGhSS3loajZWSkE9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSjFpREk0dHUwMExLSldyUUQ0WlhrM2t0WjVOZkJjbk1UTzlDZlVRQUxldGc9PQ==/master.m3u8
 #EXTINF:-1 tvg-id="sctv19hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/81.png", SCTV19 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMWdTR25uMmQ0YTg3c0k3dzV4S0ZDZVRwaEpSM3djR2xPWDV4VEFJNjhuZUE9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSjFpREk0dHUwMExLSldyUUQ0WlhrM21Nd2U4Q1hObDQxa0pCRlZNeXpsQUE9PQ==/master.m3u8
 #EXTINF:-1 tvg-id="sctv20hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/82.png", SCTV20 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMWdTR25uMmQ0YTg3c0k3dzV4S0ZDZUJUV3NXa1g1cG11ZWloZjJFMURUdmc9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSjFpREk0dHUwMExLSldyUUQ0WlhrM2JXNExYRVBVVmdweHpRTXpDRW5EY0E9PQ==/master.m3u8
 #EXTINF:-1 tvg-id="sctv21hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/83.png", SCTV21 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMWdTR25uMmQ0YTg3c0k3dzV4S0ZDZWxlbElGQm1zOUxwdVQvMlNNQ1VMeXc9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSjFpREk0dHUwMExLSldyUUQ0WlhrM2FEcktpczJFcEZsN0h3MTA4QjJDaEE9PQ==/master.m3u8
 #EXTINF:-1 tvg-id="sctv22hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/84.png", SCTV22 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMWdTR25uMmQ0YTg3c0k3dzV4S0ZDZWhDMFJCaGh3LzBGYjJPRUpTSEQ4UUE9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSjFpREk0dHUwMExLSldyUUQ0WlhrM29PVUJWcjlEcndYR3A5MGtwNmZ4RlE9PQ==/master.m3u8
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/102.png", SCTV HD Phim Tổng Hợp
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMWdTR25uMmQ0YTg3c0k3dzV4S0ZDZWt4Z3E1YndHQ0taLzdWeU9Kbnh3Z1E9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSjFpREk0dHUwMExLSldyUUQ0WlhrM2FtS0dSQWJOU0dOU3JLSFVFT2pPRXc9PQ==/master.m3u8
 
 
 
 #====Quốc Tế====
 
 #EXTINF:-1 tvg-id="" group-title="🎬| Phim truyện" group-logo="https://cdn.hqth.me/logo/category/movie.png" tvg-logo="https://linear-poster.astro.com.my/prod/poster/ivp_default_10000076_IVP_LAND_586x330.jpg", Celestial Movies
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMGxodGFuTG5jM0VIYlhnQlZTaVZKSWpUSEJmVnVadjBiSmtCeHlZdnFWV3c9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSkwvb1VxZVBhT0Q3WFNZUnhBWGllQnRCSHlyTy9NcVdneW9uazE1YTl0a0E9PQ==/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="🎬| Phim truyện" tvg-logo="https://1.bp.blogspot.com/-KJDT0M0Dxps/WnFTuqoK7FI/AAAAAAAAHEI/ROo_jjVjxqA1goBTkwRG5ladyMFCg0opACLcBGAs/s640/celestial%2Bclassic%2Bmovies.jpeg", Celestial Classic Movies
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMGxodGFuTG5jM0VIYlhnQlZTaVZKSUtaQzQwLy8reUc1Sm1vZndEaDM2OGc9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSkwvb1VxZVBhT0Q3WFNZUnhBWGllQjc3VURFZElOZG1uNnBPRlBGVVZ3MFE9PQ==/master.m3u8
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="🎬| Phim truyện" tvg-logo="https://cdn.hqth.me/logo/thumbs/231.png", CinemaWorld
 http://vthanhtivi.pw/cinemaworld/index.m3u8
 #EXTINF:-1 tvg-id="hits" group-title="🎬| Phim truyện" tvg-logo="https://cdn.hqth.me/logo/thumbs/233.png", HITS
 https://code.vthanhtivi.pw/getlink/tv360/vz667moM6CXClKTnspJCdA/1703867935/107/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="🎬| Phim truyện" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5f/Thrill_ident_2014.png/revision/latest/scale-to-width-down/1366?cb=20220518142105&path-prefix=vi", Thrill
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMGxodGFuTG5jM0VIYlhnQlZTaVZKSS9PTFZEYm53RVZZWmtabkNSRDllV3c9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSkwvb1VxZVBhT0Q3WFNZUnhBWGllQis1Q09NV0l5STAzMnFqWEhDeEtKeEE9PQ==/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="🎬| Phim truyện" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/tvbv.jpg", TVB Vietnam
 https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/6314468039001/0914b33308e3498da3b00fe2c050764e/playlist_ssaiM.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="🌈| Hoạt hình" group-logo="https://cdn.hqth.me/logo/category/anime.png" tvg-logo="https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2018/08/Aniplus-Logo-News-Black_RE.jpg", Aniplus
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMGxodGFuTG5jM0VIYlhnQlZTaVZKSVYwait4VWprdlY0dGtHdjE4SnFnUFE9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSkwvb1VxZVBhT0Q3WFNZUnhBWGllQjdIR0crRnU2UnozcUYxeEVvS3FhK1E9PQ==/master.m3u8
 #EXTINF:-1 tvg-id="animaxhd" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png", Animax HD
 http://viettel.nekocdn.xyz/Animax/index.m3u8
 #EXTINF:-1 tvg-id="cbeebies" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/212.png", BBC Cbeebies
@@ -466,13 +466,13 @@ http://viettel.nekocdn.xyz/CartoonNetwork/index.m3u8
 
 #EXTINF:-1 tvg-id="animaxhd" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png", Animax HD Dự phòng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMHdham8zOTZMS3Nud2VCcVgwTlZzUnkzRnQxWER2ckxvQ0JCRG5kakJBUnc9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSVRXN2xDMXZlU2ZWQlF1VFVDV0ZDeWpqYmJweFNGYk5xTUM1RHp6cktuakE9PQ==/master.m3u8
 #EXTINF:-1 tvg-id="boomerang" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/197.png", Cartoonito HD Dự phòng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMHdham8zOTZMS3Nud2VCcVgwTlZzUmY3bnNTRHR6ajIwZUJPd3RlWDRUaEE9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSVRXN2xDMXZlU2ZWQlF1VFVDV0ZDeWRtVml3YTBoUWYxMWV0WWE4eGlXbVE9PQ==/master.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png", Cartoon Network HD Dự phòng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMHdham8zOTZMS3Nud2VCcVgwTlZzUnVsQ2VZTUhsMUphVC9oNjd3VDFLcFE9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSVRXN2xDMXZlU2ZWQlF1VFVDV0ZDeTB6QUZjckNoUlkzZmdMWk8wbEZqTEE9PQ==/master.m3u8
 
 #EXTINF:-1 tvg-id="arirang" group-title="🌏| Đối ngoại/Tin tức quốc tế" group-logo="https://cdn.hqth.me/logo/category/news.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/214.png", Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
@@ -517,7 +517,7 @@ http://viettel.nekocdn.xyz/BBCEarth/index.m3u8
 http://viettel.nekocdn.xyz/Discovery/index.m3u8
 #EXTINF:-1 tvg-id="discoveryhd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png", Discovery Dự phòng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMHdham8zOTZMS3Nud2VCcVgwTlZzUm94YVM4NEMwK090VldhNk1vQ0xqTnc9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSVRXN2xDMXZlU2ZWQlF1VFVDV0ZDeVc4aHl4RFd5SjVDUzZKOTUvL0dIeEE9PQ==/master.m3u8
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/205.png", Discovery Asia
 http://fpt.vthanhtivi.pw/discoveryasia/index.m3u8
 #EXTINF:-1 tvg-id="lovenature" group-title="🌿| Khám phá" tvg-logo="https://static.wirtualnemedia.pl/media/top/Love-Nature-4K-2021.jpg", Love Nature 4K
@@ -525,13 +525,13 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="historyhd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/209.png", History HD
 http://viettel.nekocdn.xyz/History/index.m3u8
 #EXTINF:-1 tvg-id="outdoorfhd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/208.png", Outdoor Channel HD
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMnFZTlV5S3JEL1FjdEV4T2EzdUduNVpQM0lxaTVuUVArKzFFR0puMmJhOEE9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uS1JYK3NMazhhclhwRk1HNzZ3RFNyaVJhZTlwL1R5Y045cHdhWFM3SWxOeVE9PQ==/master.m3u8
 
 
 #EXTINF:-1 tvg-id="" group-title="🎧| Âm nhạc" tvg-logo="https://www.omediach.info/wp-content/uploads/2021/09/MTV-Live-Id-loyalkaspar.jpg", MTV Live
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMGxodGFuTG5jM0VIYlhnQlZTaVZKSWtVdlFlcjB6SmYzUmNTdDRzVGZxMkE9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSkwvb1VxZVBhT0Q3WFNZUnhBWGllQlJSL3hDQjcyeVNJMUI4WGxPaXo4MkE9PQ==/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="🎧| Âm nhạc" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGU1NzUxOGEtMmIzZC00ODJiLTlhNTMtYTdmY2RjMzFlZjgyXkEyXkFqcGdeQXVyMTM2MzAwOA@@._V1_.jpg", MTV 90s
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMGxodGFuTG5jM0VIYlhnQlZTaVZKSXRST055ZUNqZVh3bG0rb0dkQmlIQWc9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSkwvb1VxZVBhT0Q3WFNZUnhBWGllQlRzeGFqMnlJWUNlRU5zUXdwWHFKc2c9PQ==/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="🎧| Âm nhạc" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmIzMTgwYjYtYTI0OS00YjcxLTgzMDUtYTFkM2ZjNWYzNmVlXkEyXkFqcGdeQXVyMTM2MzAwOA@@._V1_.jpg", MTV 00s
 http://tv.vnoo.net/direct_tv/vthanh/tv/mtv00s.m3u8
 #EXTINF:-1 tvg-id="" group-title="🎧| Âm nhạc" tvg-logo="https://i.ytimg.com/vi/GFJLuOoxzeA/maxresdefault.jpg", MTV Hits
@@ -549,21 +549,21 @@ http://fpt.vthanhtivi.pw/axn/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://code.vthanhtivi.pw/getlink/tvfree/axn/playlist.m3u8
 #EXTINF:-1 tvg-id="afnhd" group-title="🤣| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/263.png", Asian Food Network
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMnFZTlV5S3JEL1FjdEV4T2EzdUduNUdQV3BHV0thazNXQTRFN2w3VUZuV0E9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uS1JYK3NMazhhclhwRk1HNzZ3RFNyaU4vNERpNkJ6QnhxdEtucm1hcVZ6b2c9PQ==/master.m3u8
 #EXTINF:-1 tvg-id="bbclifestyle" group-title="🤣| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/211.png", BBC Lifestyle
 http://fpt.vthanhtivi.pw/bbclifestyle/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="🤣| Giải trí" tvg-logo="https://aeci.s3.eu-west-2.amazonaws.com/s3fs-public/default_images/ciuk.jpg", CRIME+INVESTIGATION
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMGxodGFuTG5jM0VIYlhnQlZTaVZKSWVTa29oSTV0b29NVFl4QUlyT1E1M2c9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSkwvb1VxZVBhT0Q3WFNZUnhBWGllQm5qUkR3ZjloWGtvUFprSXYvTHdpanc9PQ==/master.m3u8
 #EXTINF:-1 tvg-id="dmax" group-title="🤣| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/230.png", DMAX
 http://fpt.vthanhtivi.pw/dmax/index.m3u8
 #EXTINF:-1 tvg-id="fashionhd" group-title="🤣| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/232.png", Fashion TV
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="🤣| Giải trí" tvg-logo="https://images.squarespace-cdn.com/content/v1/54b32958e4b08972957c461b/1615504400122-FLJAAPMSITVB96CD2Y06/image-asset.png?format=1500w", GEM
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMGxodGFuTG5jM0VIYlhnQlZTaVZKSWJQaEttamNHeC9ncFVYbm9WZDhxRVE9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSkwvb1VxZVBhT0Q3WFNZUnhBWGllQnFOQ1hpcHdyRjlWYVJ2NG9XNnZEaVE9PQ==/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="🤣| Giải trí" tvg-logo="https://images.squarespace-cdn.com/content/v1/5f0399e5b096b01cd79e8ac5/1594936869834-MBPKYN93MFD8IFBS1SU9/ONE_26_LogoIdent_08.png", ONE
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMGxodGFuTG5jM0VIYlhnQlZTaVZKSWNsMXluZnMzeGtWRWxGZS9xdTN2cVE9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSkwvb1VxZVBhT0Q3WFNZUnhBWGllQm1wR0xtbnZCWTIxQUd4bWo1SW92R3c9PQ==/master.m3u8
 #EXTINF:-1 tvg-id="hgtv" group-title="🤣| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/234.png", HGTV
-https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFNGs0UUUzL1NkYk5uOS9DRWdJZVUrMXMySkFwdEVXOEFDR3dUSml3NlRPUE83VUFUbTdTTnh2NG9kbyt3RDNkUUE9PQ==/master.m3u8
+https://code.vthanhtivi.pw/channel/OWVOTERybnpodzFFUWdaRGdhL0xFN0d5T0xOZzJCb05ZZURlSnlCaU5uSnUraDhBVmZOMklmakNOdi9GWmcwWGE2WFluMUYvdzRhNTdQazE3NzFiRkE9PQ==/master.m3u8
 #EXTINF:-1 tvg-id="kix" group-title="🤣| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/235.png", KIX HD
 http://210.210.155.37/dr9445/h/h07/01.m3u8
 
@@ -761,6 +761,7 @@ http://103.47.194.152/VTV5/mpegts
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 Tây Nam Bộ - Độ trễ thấp
 http://103.47.194.152/VTV5TNB/mpegts
 	
+
 
 
 
