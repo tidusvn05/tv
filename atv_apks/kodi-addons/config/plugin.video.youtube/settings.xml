@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<settings version="2">
+    <setting id="kodion.setup_wizard">false</setting>
+    <setting id="kodion.setup_wizard.forced_runs">1767970800</setting>
+    <setting id="kodion.mpd.quality.selection">4</setting>
+    <setting id="kodion.video.quality">4</setting>
+</settings>

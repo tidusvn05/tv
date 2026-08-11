@@ -1,0 +1,16 @@
+.DS_Store
+.vscode/
+node_modules/
+running.log
+
+# APK artifacts are retained locally and documented by hash/signature.
+*.apk
+*.apkm
+
+# Downloaded Kodi release archives; keep only configs and compatibility sources.
+atv_apks/**/*.zip
+
+# Extracted vendor trees and pre-existing local app libraries are not source.
+atv_apks/kodi-addons/patched/
+atv_apks/musthave/
+atv_apks/xiaomi/
